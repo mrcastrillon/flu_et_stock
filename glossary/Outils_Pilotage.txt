@@ -1,0 +1,8 @@
+blanchiment	blanqueo
+ensemble des entités 	las diversas entidadesatendidas por el programa.
+encodés	codificados
+l'entrepôt de données	 el depósito de datos.
+données historisées	datos históricos
+rafraîchit la fenêtre	 refrescará la vista
+données issues	datos
+NB :	NB

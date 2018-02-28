@@ -1,0 +1,14 @@
+2/27/18 11:42 PM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	     608	 5124	                      28728	                        33198	     1	
+Remaining:       	     334	 3808	                      21200	                        24677	     1	
+Unique:          	     459	 4406	                      24724	                        28619	     1	
+Unique Remaining:	     258	 3389	                      18812	                        21938	     1	
+
+
+Individual File Statistics:
+
+File Name                                 	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+AML KYC - Outils de pilotage 20180221.docx	           608	               334	            459	                      258	       5124	           3808	        4406	                  3389	                            28728	                                21200	                             24724	                                       18812	                              33198	                                  24677	                               28619	                                         21938	

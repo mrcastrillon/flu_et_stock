@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="FR"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="FR">
+        <seg>(SAGALINK Consulting)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T222032Z" creationid="Mr.Castrillon" creationdate="20180227T222012Z">
+        <seg>(Consultante en SAGALINK)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T222059Z" creationid="Mr.Castrillon" creationdate="20180227T222059Z">
+        <seg>1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>1.1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T222206Z" creationid="Mr.Castrillon" creationdate="20180227T222206Z">
+        <seg>1.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>1.2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T222225Z" creationid="Mr.Castrillon" creationdate="20180227T222225Z">
+        <seg>1.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>1.3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T222242Z" creationid="Mr.Castrillon" creationdate="20180227T222242Z">
+        <seg>1.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>1.4</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T222825Z" creationid="Mr.Castrillon" creationdate="20180227T222825Z">
+        <seg>1.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>10</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223637Z" creationid="Mr.Castrillon" creationdate="20180227T223637Z">
+        <seg>10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>13</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223810Z" creationid="Mr.Castrillon" creationdate="20180227T223810Z">
+        <seg>13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>14</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223828Z" creationid="Mr.Castrillon" creationdate="20180227T223828Z">
+        <seg>14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>15</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223851Z" creationid="Mr.Castrillon" creationdate="20180227T223851Z">
+        <seg>15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>16</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223904Z" creationid="Mr.Castrillon" creationdate="20180227T223904Z">
+        <seg>16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>17</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224244Z" creationid="Mr.Castrillon" creationdate="20180227T224244Z">
+        <seg>17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>18</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224431Z" creationid="Mr.Castrillon" creationdate="20180227T224431Z">
+        <seg>18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>19</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224606Z" creationid="Mr.Castrillon" creationdate="20180227T224606Z">
+        <seg>19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T222833Z" creationid="Mr.Castrillon" creationdate="20180227T222833Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>20</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224835Z" creationid="Mr.Castrillon" creationdate="20180227T224835Z">
+        <seg>20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T222205Z" creationid="Mr.Castrillon" creationdate="20180227T222205Z">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>3.1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223136Z" creationid="Mr.Castrillon" creationdate="20180227T223136Z">
+        <seg>3.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>3.2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223145Z" creationid="Mr.Castrillon" creationdate="20180227T223145Z">
+        <seg>3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>3.2.1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223216Z" creationid="Mr.Castrillon" creationdate="20180227T223216Z">
+        <seg>3.2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>3.2.2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223336Z" creationid="Mr.Castrillon" creationdate="20180227T223336Z">
+        <seg>3.2.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>3.2.3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223355Z" creationid="Mr.Castrillon" creationdate="20180227T223355Z">
+        <seg>3.2.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>3.3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223409Z" creationid="Mr.Castrillon" creationdate="20180227T223409Z">
+        <seg>3.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>3.3.1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223432Z" creationid="Mr.Castrillon" creationdate="20180227T223432Z">
+        <seg>3.3.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>3.3.2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223443Z" creationid="Mr.Castrillon" creationdate="20180227T223443Z">
+        <seg>3.3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>3.3.3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223543Z" creationid="Mr.Castrillon" creationdate="20180227T223543Z">
+        <seg>3.3.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>3.3.4</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223607Z" creationid="Mr.Castrillon" creationdate="20180227T223607Z">
+        <seg>3.3.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>3.3.5</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223638Z" creationid="Mr.Castrillon" creationdate="20180227T223638Z">
+        <seg>3.3.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>3.4</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223658Z" creationid="Mr.Castrillon" creationdate="20180227T223658Z">
+        <seg>3.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>4</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223215Z" creationid="Mr.Castrillon" creationdate="20180227T223215Z">
+        <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>4.1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223829Z" creationid="Mr.Castrillon" creationdate="20180227T223829Z">
+        <seg>4.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>4.2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223833Z" creationid="Mr.Castrillon" creationdate="20180227T223833Z">
+        <seg>4.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>4.3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223852Z" creationid="Mr.Castrillon" creationdate="20180227T223852Z">
+        <seg>4.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>4.4</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223906Z" creationid="Mr.Castrillon" creationdate="20180227T223906Z">
+        <seg>4.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>4.4.1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223919Z" creationid="Mr.Castrillon" creationdate="20180227T223919Z">
+        <seg>4.4.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>4.4.2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224023Z" creationid="Mr.Castrillon" creationdate="20180227T224023Z">
+        <seg>4.4.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>4.4.3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224032Z" creationid="Mr.Castrillon" creationdate="20180227T224032Z">
+        <seg>4.4.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>4.4.4</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224225Z" creationid="Mr.Castrillon" creationdate="20180227T224225Z">
+        <seg>4.4.4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>4.5</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224246Z" creationid="Mr.Castrillon" creationdate="20180227T224246Z">
+        <seg>4.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>5</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223354Z" creationid="Mr.Castrillon" creationdate="20180227T223354Z">
+        <seg>5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>5.2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224539Z" creationid="Mr.Castrillon" creationdate="20180227T224539Z">
+        <seg>5.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>5.2.1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224608Z" creationid="Mr.Castrillon" creationdate="20180227T224608Z">
+        <seg>5.2.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>5.2.2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224755Z" creationid="Mr.Castrillon" creationdate="20180227T224755Z">
+        <seg>5.2.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>5.3</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224837Z" creationid="Mr.Castrillon" creationdate="20180227T224837Z">
+        <seg>5.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>5.3.1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224923Z" creationid="Mr.Castrillon" creationdate="20180227T224923Z">
+        <seg>5.3.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>5.3.2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T225104Z" creationid="Mr.Castrillon" creationdate="20180227T225104Z">
+        <seg>5.3.2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>6</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223408Z" creationid="Mr.Castrillon" creationdate="20180227T223408Z">
+        <seg>6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>7</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223542Z" creationid="Mr.Castrillon" creationdate="20180227T223542Z">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>8</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223606Z" creationid="Mr.Castrillon" creationdate="20180227T223606Z">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>: E&lt;t0/&gt;xports de BCT (mainframe) vers l’entrepôt de données Sidéral (inchangé)&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T015831Z" creationid="Mr.Castrillon" creationdate="20180228T015831Z">
+        <seg>:E&lt;t0/&gt;xportación de BCT (mainframe) hacia el depósito de datos Sideral (invariable)&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>AML – KYC</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T221248Z" creationid="Mr.Castrillon" creationdate="20180227T221248Z">
+        <seg>AML – KYC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>AML&lt;t0/&gt; - &lt;t1/&gt;KYC</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T221756Z" creationid="Mr.Castrillon" creationdate="20180227T221756Z">
+        <seg>AML&lt;t0/&gt; - &lt;t1/&gt;KYC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Actuellement, seul&lt;t0/&gt;e la relation avec&lt;t1/&gt; les clients « Investisseurs » &lt;t2/&gt;est&lt;t3/&gt; géré&lt;t4/&gt;e&lt;t5/&gt; via la CRM&lt;t6/&gt;, les échanges avec les clients « Banque » étant réalisés directement dans Outlook.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T002424Z" creationid="Mr.Castrillon" creationdate="20180228T002007Z">
+        <seg>En estos momentos, solo&lt;t0/&gt;la relación con&lt;t1/&gt; los clientes "Inversores" &lt;t2/&gt;se&lt;t3/&gt;administr&lt;t4/&gt;a&lt;t5/&gt; a través de CRM&lt;t6/&gt;, los intercambios con los clientes "Banco" se realizan directamente a través de Outlook.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Afin de piloter l’activité de l’équipe AML KYC, les managers de l’équipe sont demandeurs d’outils produisant des indicateurs portant tant sur la qualité des informations saisies, leur cohérence, leur complétude, que sur la charge de travail associée à l’alimentation et à la maintenance de la base de données.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T231657Z" creationid="Mr.Castrillon" creationdate="20180227T231657Z">
+        <seg>Para poder controlar la actividad del equipo AML KYC, los jefes del equipo operan como demandantes de herramientas que produzcan indicadores sobre la calidad de la información introducida, su coherencia, completitud, y además la carga de trabajo asociada a la alimentación y el mantenimiento de la base de datos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Architecture</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223143Z" creationid="Mr.Castrillon" creationdate="20180227T223143Z">
+        <seg>Arquitectura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>BCT couvre le périmètre Banque et Investisseurs.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T001750Z" creationid="Mr.Castrillon" creationdate="20180228T001750Z">
+        <seg>BCT cubre el perimetro Banco e Inversor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>BCT dont des extractions offrent une photo du « stock » des documents collectés auprès des clients.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T001718Z" creationid="Mr.Castrillon" creationdate="20180227T232544Z">
+        <seg>BCT cuyas extracciones ofrecen una foto de « stock » de los documentos recopilados por los usuarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Bases de données</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223214Z" creationid="Mr.Castrillon" creationdate="20180227T223214Z">
+        <seg>Bases de datos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Besoin</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T231240Z" creationid="Mr.Castrillon" creationdate="20180227T222238Z">
+        <seg>Necesidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>CRM, outil de « flux » utilisé pour gérer la relation avec les clients investisseurs (échanges d’e-mails, workflow de collecte, …).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T002016Z" creationid="Mr.Castrillon" creationdate="20180228T001914Z">
+        <seg>CRM, herramienta de "flujo" propuesta con el objetivo de administrar la relación con los clientes inversores (intercambio de correo, flujo de trabajo de la recolección,...).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Chaînes de connexion</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223401Z" creationid="Mr.Castrillon" creationdate="20180227T223401Z">
+        <seg>Canales de conexión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Chronologies</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224243Z" creationid="Mr.Castrillon" creationdate="20180227T224243Z">
+        <seg>Cronologías</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Cohérence des Tiers "communs" à l'activité TA et Bank</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T225159Z" creationid="Mr.Castrillon" creationdate="20180227T225159Z">
+        <seg>Coherencia entre los Tiers "communs" y la actividad TA y Bank</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Comparaison de fichiers de grande taille</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224537Z" creationid="Mr.Castrillon" creationdate="20180227T224537Z">
+        <seg>Comparación de ficheros grandes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Consultation des indicateurs</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223914Z" creationid="Mr.Castrillon" creationdate="20180227T223914Z">
+        <seg>Consulta de los indicadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Contexte</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T222214Z" creationid="Mr.Castrillon" creationdate="20180227T222214Z">
+        <seg>Contexto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Date : &lt;t0/&gt;21&lt;t1/&gt;/02&lt;t2/&gt;/2018</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T221751Z" creationid="Mr.Castrillon" creationdate="20180227T221733Z">
+        <seg>Fecha : &lt;t0/&gt;21&lt;t1/&gt;/02&lt;t2/&gt;/2018</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Divers</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224433Z" creationid="Mr.Castrillon" creationdate="20180227T224433Z">
+        <seg>Divers</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Documentation technique et fonctionnelle</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T221925Z" creationid="Mr.Castrillon" creationdate="20180227T221925Z">
+        <seg>Documentación técnica y funcional</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Données BCT / Sidéral</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223334Z" creationid="Mr.Castrillon" creationdate="20180227T223334Z">
+        <seg>Datos BCT / Sideral</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Données CRM</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223349Z" creationid="Mr.Castrillon" creationdate="20180227T223349Z">
+        <seg>Datos CRM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Duplication dans les IP locales</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224831Z" creationid="Mr.Castrillon" creationdate="20180227T224831Z">
+        <seg>Duplicación en los IP locales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Emplacement</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224020Z" creationid="Mr.Castrillon" creationdate="20180227T224020Z">
+        <seg>Emplazamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>En effet, BCT est une base Mainframe qui n’est pas requêtée mais via une base intermédiaire nommée Sidéral.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T015939Z" creationid="Mr.Castrillon" creationdate="20180228T015939Z">
+        <seg>De hecho, BCT es una base Mainframe que recibe demandas sólo a través de una base intermediaria denominada Sideral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Expression des &lt;t0/&gt;Besoin&lt;t1/&gt;s</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T002451Z" creationid="Mr.Castrillon" creationdate="20180228T002451Z">
+        <seg>Manifestaciones de &lt;t0/&gt;Necesidade&lt;t1/&gt;s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Expression des Besoins</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223033Z" creationid="Mr.Castrillon" creationdate="20180227T223033Z">
+        <seg>Necesidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Historisation des indicateurs</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224430Z" creationid="Mr.Castrillon" creationdate="20180227T224430Z">
+        <seg>Historización de los indicadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Implémentation technique</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223058Z" creationid="Mr.Castrillon" creationdate="20180227T223058Z">
+        <seg>Implementación técnica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Indicateurs dépriorisés</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224921Z" creationid="Mr.Castrillon" creationdate="20180227T224921Z">
+        <seg>Indicadores sin prioridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>L&lt;t0/&gt;es indicateurs &lt;t1/&gt;de pilotage &lt;t2/&gt;sont basés sur les données &lt;t3/&gt;de deux outils principaux :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T232543Z" creationid="Mr.Castrillon" creationdate="20180227T232451Z">
+        <seg>L&lt;t0/&gt;os indicadores&lt;t1/&gt;de control&lt;t2/&gt;se basan en&lt;t3/&gt;dos herramientas principales:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La production des indicateurs demandés par le métier se fait en conformité &lt;t0/&gt;avec cette &lt;t1/&gt;architecture (&lt;t2/&gt;Cf. schéma ci-dessous) :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T015711Z" creationid="Mr.Castrillon" creationdate="20180228T015711Z">
+        <seg>La producción de indicadores demandada por el oficio cumple con la arquitectura reflejada en el siguiente diagrama:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les besoins exprimés lors des différents entretiens menés tant sur le stock que sur le flux ont été regroupés dans la présentation PowerPoint ci-dessous :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T003036Z" creationid="Mr.Castrillon" creationdate="20180228T003036Z">
+        <seg>Las necesidades expresadas a través de encuestas sobre el stock y el flujo se pueden apreciar en la presentación de PowerPoint siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les clients de CACEIS Luxembourg sont :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T231724Z" creationid="Mr.Castrillon" creationdate="20180227T231724Z">
+        <seg>Los clientes de CACEIS Luxembourg son:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les documents collectés sont « encodés » (saisie en base d’informations), scannés (et alors stockés dans une GED)&lt;t2/&gt; et stockés physiquement lorsque la réglementation l’impose.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T231231Z" creationid="Mr.Castrillon" creationdate="20180227T231224Z">
+        <seg>Los documentos recopilados son "codificados" (introducidos en la base de información), escaneados (y luego almacenados en una GED)&lt;t2/&gt; y almacenados físicamente mientras que la reglamentación lo imponga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les informations collectées sont saisies dans la base de données BCT&lt;t0/&gt; (Base Clients Tiers)&lt;t1/&gt;, utilisée par l’ensemble des entités du groupe CACEIS.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T225937Z" creationid="Mr.Castrillon" creationdate="20180227T225937Z">
+        <seg>Los datos recopilados son introducidos en la base de dato BCT &lt;t0/&gt;(Base Clients Tiers&lt;t1/&gt;, utilizadas por todas las entidades de CACEIS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les équipes AML KYC de CACEIS Luxembourg &lt;t0/&gt;s’assurent, via&lt;t1/&gt; la collecte et l&lt;t2/&gt;’analyse de données et de documents, &lt;t3/&gt;de la conformité des clients face aux législations &lt;t4/&gt;visant à contrer le blanchiment&lt;t5/&gt; &lt;t6/&gt;et le financement du terrorisme.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T225625Z" creationid="Mr.Castrillon" creationdate="20180227T225323Z">
+        <seg>Los equipos AML KYC de CACEIS Luxembourg &lt;t0/&gt;se aseguran a través de&lt;t1/&gt; la recopilación y el&lt;t2/&gt;análisis de datos y documentos, &lt;t3/&gt;de la conformidad de los clientes con respecto a las legislaciones &lt;t4/&gt;que combaten le blanqueo&lt;t5/&gt; &lt;t6/&gt;y el financiamiento del terrorismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Log , mode DEBUG &amp; langue</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223806Z" creationid="Mr.Castrillon" creationdate="20180227T223806Z">
+        <seg>Registro, modo DEBUG &amp; idioma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Logique générale</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223441Z" creationid="Mr.Castrillon" creationdate="20180227T223441Z">
+        <seg>Lógica general</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>L’IP (Informatique de proximité) a défini des bonnes pratiques et mis en place l’architecture associée.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T015504Z" creationid="Mr.Castrillon" creationdate="20180228T015504Z">
+        <seg>La IP (Informática de proximidad) ha establecido buenas prácticas y posibilitado la implementación de la arquitectura asociada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Macro description du besoin</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T225210Z" creationid="Mr.Castrillon" creationdate="20180227T222203Z">
+        <seg>Macro descripción de las necesidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Mise à jour des dates d'extraction</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223850Z" creationid="Mr.Castrillon" creationdate="20180227T223850Z">
+        <seg>Actualización de las fechas de extracción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Mise à jour des données source et des indicateurs</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223601Z" creationid="Mr.Castrillon" creationdate="20180227T223601Z">
+        <seg>Actualización de los datos fuentes y los indicadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Mise à jour des indicateurs</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223903Z" creationid="Mr.Castrillon" creationdate="20180227T223903Z">
+        <seg>Actualización de los indicadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Mode d’emploi utilisateur</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223826Z" creationid="Mr.Castrillon" creationdate="20180227T223826Z">
+        <seg>Modo usuario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Modifications réalisées par une autre entité sur des Tiers partagés</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T225103Z" creationid="Mr.Castrillon" creationdate="20180227T225103Z">
+        <seg>Modificaciones realizadas por otras entidades en los Tiers compartidos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Onglets des indicateurs</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223656Z" creationid="Mr.Castrillon" creationdate="20180227T223656Z">
+        <seg>Pestañas de los indicadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Outil de pilotage Excel</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223429Z" creationid="Mr.Castrillon" creationdate="20180227T223429Z">
+        <seg>Herramienta de control en Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Outils</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T222831Z" creationid="Mr.Castrillon" creationdate="20180227T222831Z">
+        <seg>Herramientas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Outils de pilotage du Flux et du Stock</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T221702Z" creationid="Mr.Castrillon" creationdate="20180227T221702Z">
+        <seg>Herramientas de control de l</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Personnalisation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224030Z" creationid="Mr.Castrillon" creationdate="20180227T224030Z">
+        <seg>Personalización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Regroupements de données</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224223Z" creationid="Mr.Castrillon" creationdate="20180227T224223Z">
+        <seg>Agrupación de datos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Récupération des dates d'extraction disponibles en base</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223540Z" creationid="Mr.Castrillon" creationdate="20180227T223540Z">
+        <seg>Recuperación de fechas de extracción disponible en la base de datos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Rédacteur : Alain Le Gall</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T222010Z" creationid="Mr.Castrillon" creationdate="20180227T222010Z">
+        <seg>Redactado por: Alain Le Galll</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Soit clients des autres activités (tenue de compte, valorisation, etc.) et alors considérés comme clients &lt;t0/&gt;« B&lt;t1/&gt;anque ».</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T232431Z" creationid="Mr.Castrillon" creationdate="20180227T232431Z">
+        <seg>Clientes de otras actividades (mantenimiento de cuentas, valorizaciones, etc.) y considerados como clientes del &lt;t0/&gt;"B&lt;t1/&gt;anco"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Soit des &lt;t0/&gt;« I&lt;t1/&gt;nvestisseurs&lt;t2/&gt; »&lt;t3/&gt;, clients du Transfer Agent (TA) ;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T232103Z" creationid="Mr.Castrillon" creationdate="20180227T231834Z">
+        <seg>&lt;t0/&gt;"I&lt;t1/&gt;nversores&lt;t2/&gt;"&lt;t3/&gt;, clientes de Transfer Agent (TA) ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Table des matières</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T222055Z" creationid="Mr.Castrillon" creationdate="20180227T222055Z">
+        <seg>Tabla de contenido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Transcodifications</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223635Z" creationid="Mr.Castrillon" creationdate="20180227T223635Z">
+        <seg>Transcodificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Types de clients</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T231712Z" creationid="Mr.Castrillon" creationdate="20180227T222817Z">
+        <seg>Tipos de cliente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Utilisation des bases de l'IP Luxembourg</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224811Z" creationid="Mr.Castrillon" creationdate="20180227T224753Z">
+        <seg>Uso de las bases desde el IP Luxembourg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Utilisation par d'autres entités du groupe CACEIS</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224603Z" creationid="Mr.Castrillon" creationdate="20180227T224603Z">
+        <seg>Uso por parte de otras entidades de CACEIS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Version : &lt;t0/&gt;1.0</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T221936Z" creationid="Mr.Castrillon" creationdate="20180227T221929Z">
+        <seg>Versión : &lt;t0/&gt;1.0</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
