@@ -8,8 +8,8 @@
       <tuv xml:lang="FR">
         <seg>&amp;<ph x="0">&lt;t0/&gt;</ph> : Les outils de pilotage <ph x="1">&lt;t1/&gt;</ph>au format Excel <ph x="2">&lt;t2/&gt;</ph>sont hébergés dans Share<ph x="3">&lt;t3/&gt;</ph>P<ph x="4">&lt;t4/&gt;</ph>oint<ph x="5">&lt;t5/&gt;</ph> : <ph x="6">&lt;t6/&gt;</ph>le programme rafraîchit <ph x="7">&lt;t7/&gt;</ph>d<ph x="8">&lt;t8/&gt;</ph>es tableaux de données et réalise les filtres, compilations, transformations, <ph x="9">&lt;t9/&gt;</ph>..<ph x="10">&lt;t10/&gt;</ph>.<ph x="11">&lt;t11/&gt;</ph>,<ph x="12">&lt;t12/&gt;</ph> <ph x="13">&lt;t13/&gt;</ph>n<ph x="14">&lt;t14/&gt;</ph>écessaires.</seg>
       </tuv>
-      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T033945Z" creationid="Mr.Castrillon" creationdate="20180228T023024Z">
-        <seg>&amp;<ph x="0">&lt;t0/&gt;</ph> :Las herramientas de control <ph x="1">&lt;t1/&gt;</ph>en formato Excel <ph x="2">&lt;t2/&gt;</ph>están situadas en Share<ph x="3">&lt;t3/&gt;</ph>P<ph x="4">&lt;t4/&gt;</ph>oint<ph x="5">&lt;t5/&gt;</ph>: <ph x="6">&lt;t6/&gt;</ph>el programa actualiza <ph x="7">&lt;t7/&gt;</ph>l<ph x="8">&lt;t8/&gt;</ph>as tablas de datos y realiza los filtros, compilaciones y transformaciones necesarias.</seg>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T135859Z" creationid="Mr.Castrillon" creationdate="20180228T023024Z">
+        <seg>&amp;<ph x="0">&lt;t0/&gt;</ph> : Las herramientas de control <ph x="1">&lt;t1/&gt;</ph>en formato Excel <ph x="2">&lt;t2/&gt;</ph>están situadas en Share<ph x="3">&lt;t3/&gt;</ph>P<ph x="4">&lt;t4/&gt;</ph>oint<ph x="5">&lt;t5/&gt;</ph>: <ph x="6">&lt;t6/&gt;</ph>el programa actualiza <ph x="7">&lt;t7/&gt;</ph>l<ph x="8">&lt;t8/&gt;</ph>as tablas de datos y realiza los filtros, compilaciones y transformaciones necesarias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -424,8 +424,8 @@
       <tuv xml:lang="FR">
         <seg>: E<ph x="0">&lt;t0/&gt;</ph>xports de BCT (mainframe) vers l’entrepôt de données Sidéral (inchangé)<ph x="1">&lt;t1/&gt;</ph>.</seg>
       </tuv>
-      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T015831Z" creationid="Mr.Castrillon" creationdate="20180228T015831Z">
-        <seg>:E<ph x="0">&lt;t0/&gt;</ph>xportación de BCT (mainframe) hacia el depósito de datos Sideral (invariable)<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T135915Z" creationid="Mr.Castrillon" creationdate="20180228T015831Z">
+        <seg>: E<ph x="0">&lt;t0/&gt;</ph>xportación de BCT (mainframe) hacia el depósito de datos Sideral (invariable)<ph x="1">&lt;t1/&gt;</ph>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv xml:lang="FR">
+        <seg>Action</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T131950Z" creationid="Mr.Castrillon" creationdate="20180228T131950Z">
+        <seg>Acción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
         <seg>Actuellement, seul<ph x="0">&lt;t0/&gt;</ph>e la relation avec<ph x="1">&lt;t1/&gt;</ph> les clients « Investisseurs » <ph x="2">&lt;t2/&gt;</ph>est<ph x="3">&lt;t3/&gt;</ph> géré<ph x="4">&lt;t4/&gt;</ph>e<ph x="5">&lt;t5/&gt;</ph> via la CRM<ph x="6">&lt;t6/&gt;</ph>, les échanges avec les clients « Banque » étant réalisés directement dans Outlook.</seg>
       </tuv>
       <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T033635Z" creationid="Mr.Castrillon" creationdate="20180228T002007Z">
@@ -480,8 +488,16 @@
       <tuv xml:lang="FR">
         <seg>Afin de piloter l’activité de l’équipe AML KYC, les managers de l’équipe sont demandeurs d’outils produisant des indicateurs portant tant sur la qualité des informations saisies, leur cohérence, leur complétude, que sur la charge de travail associée à l’alimentation et à la maintenance de la base de données.</seg>
       </tuv>
-      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180227T231657Z" creationid="Mr.Castrillon" creationdate="20180227T231657Z">
-        <seg>Para poder controlar la actividad del equipo AML KYC, los jefes del equipo operan como demandantes de herramientas que produzcan indicadores sobre la calidad de la información introducida, su coherencia, completitud, y además la carga de trabajo asociada a la alimentación y el mantenimiento de la base de datos. </seg>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T135228Z" creationid="Mr.Castrillon" creationdate="20180227T231657Z">
+        <seg>Para poder controlar la eficiencia del equipo AML KYC, los jefes de equipo exigen herramientas que produzcan indicadores sobre la calidad de la información introducida, su coherencia, completitud, y además la carga de trabajo asociada al almacenamiento y el mantenimiento de la base de datos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Ajoute un nouvel onglet au fichier Excel</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T133056Z" creationid="Mr.Castrillon" creationdate="20180228T133056Z">
+        <seg>Añade una nueva pestaña al archivo Excel</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,10 +542,18 @@
     </tu>
     <tu>
       <tuv xml:lang="FR">
+        <seg>Boucle sur toutes les chaînes de connexion ODBC existantes dans le fichier Excel et identifie la chaîne de connexion et la requête SQL associée</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T133234Z" creationid="Mr.Castrillon" creationdate="20180228T133234Z">
+        <seg>Se realiza un boucle a través de todos los canales de conexión de ODBC existentes en el archivo Excel e identifica el canal de conexión y la petición SQL asociada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
         <seg>C'est un champ <ph x="3">&lt;t3/&gt;</ph>datetime<ph x="4">&lt;t4/&gt;</ph> permettant de préciser la date et le jour où l'extraction a été réalisée.</seg>
       </tuv>
-      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T024925Z" creationid="Mr.Castrillon" creationdate="20180228T024823Z">
-        <seg>Campo <ph x="3">&lt;t3/&gt;</ph>datetime<ph x="4">&lt;t4/&gt;</ph> que permite determinar con precisión la fecha y el día en que se realizó la extracción.</seg>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T135809Z" creationid="Mr.Castrillon" creationdate="20180228T024823Z">
+        <seg>Es un campo <ph x="3">&lt;t3/&gt;</ph>datetime<ph x="4">&lt;t4/&gt;</ph> que permite determinar con precisión la fecha y el día en que se realizó la extracción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +654,14 @@
     </tu>
     <tu>
       <tuv xml:lang="FR">
+        <seg>Chaîne de connexion souhaitée</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T133315Z" creationid="Mr.Castrillon" creationdate="20180228T133315Z">
+        <seg>Canal de conexión deseado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
         <seg>Chaînes de connexion</seg>
       </tuv>
       <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180227T223401Z" creationid="Mr.Castrillon" creationdate="20180227T223401Z">
@@ -710,6 +742,14 @@
     </tu>
     <tu>
       <tuv xml:lang="FR">
+        <seg>Deux outils permett<ph x="0">&lt;t0/&gt;</ph>e<ph x="1">&lt;t1/&gt;</ph>nt de gérer ces chaînes<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T131923Z" creationid="Mr.Castrillon" creationdate="20180228T131923Z">
+        <seg>Dos herramienta<ph x="0">&lt;t0/&gt;</ph>s<ph x="1">&lt;t1/&gt;</ph> posibilitan la administración de estos canales<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
         <seg>Divers</seg>
       </tuv>
       <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180227T224433Z" creationid="Mr.Castrillon" creationdate="20180227T224433Z">
@@ -746,6 +786,14 @@
       </tuv>
       <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T031404Z" creationid="Mr.Castrillon" creationdate="20180227T224831Z">
         <seg>Duplicación en IP locales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Ecrit ces informations dans l'onglet préalablement ajouté</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T133302Z" creationid="Mr.Castrillon" creationdate="20180228T133302Z">
+        <seg>escriba esta información en la pestaña recientemente creada</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,6 +974,14 @@
     </tu>
     <tu>
       <tuv xml:lang="FR">
+        <seg>La liaison entre les tableaux Excel et les bases de données sont réalisées via des chaînes de connexion<ph x="0">&lt;t0/&gt;</ph> telle que :</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T131808Z" creationid="Mr.Castrillon" creationdate="20180228T131808Z">
+        <seg>Gracias a los canales de conexión, se establece la relación entre las tablas en Excel y las bases de datos<ph x="0">&lt;t0/&gt;</ph> tales como :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
         <seg>La production des indicateurs demandés par le métier se fait en conformité <ph x="0">&lt;t0/&gt;</ph>avec cette <ph x="1">&lt;t1/&gt;</ph>architecture (<ph x="2">&lt;t2/&gt;</ph>Cf. schéma ci-dessous) :</seg>
       </tuv>
       <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T032542Z" creationid="Mr.Castrillon" creationdate="20180228T015711Z">
@@ -936,8 +992,8 @@
       <tuv xml:lang="FR">
         <seg>Le champ <ph x="0">&lt;t0/&gt;</ph>db_extractdate<ph x="1">&lt;t1/&gt;</ph> un champ <ph x="2">&lt;t2/&gt;</ph>datetime<ph x="3">&lt;t3/&gt;</ph> permettant de préciser la date et le jour où l'extraction a été réalisée.</seg>
       </tuv>
-      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T030142Z" creationid="Mr.Castrillon" creationdate="20180228T030142Z">
-        <seg>Le champ <ph x="0">&lt;t0/&gt;</ph>db_extractdate<ph x="1">&lt;t1/&gt;</ph> un champ <ph x="2">&lt;t2/&gt;</ph>datetime<ph x="3">&lt;t3/&gt;</ph> permettant de préciser la date et le jour où l'extraction a été réalisée.</seg>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T131434Z" creationid="Mr.Castrillon" creationdate="20180228T030142Z">
+        <seg>Campo <ph x="3">&lt;t3/&gt;</ph>datetime<ph x="4">&lt;t4/&gt;</ph> que permite determinar con precisión la fecha y el día en que se realizó la extracción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,8 +1032,8 @@
       <tuv xml:lang="FR">
         <seg>Les documents collectés sont « encodés » (saisie en base d’informations), scannés (et alors stockés dans une GED)<ph x="2">&lt;t2/&gt;</ph> et stockés physiquement lorsque la réglementation l’impose.</seg>
       </tuv>
-      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T031932Z" creationid="Mr.Castrillon" creationdate="20180227T231224Z">
-        <seg>Los documentos recopilados son "codificados" (introducidos en la base de información), escaneados (luego almacenados en GED)<ph x="2">&lt;t2/&gt;</ph> y almacenados físicamente mientras que la reglamentación lo imponga.</seg>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T134619Z" creationid="Mr.Castrillon" creationdate="20180227T231224Z">
+        <seg>Los documentos recopilados son "codificados" (introducidos en la base de información), escaneados (luego guardados en GED)<ph x="2">&lt;t2/&gt;</ph> y almacenados físicamente mientras que la reglamentación lo imponga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -998,6 +1054,14 @@
     </tu>
     <tu>
       <tuv xml:lang="FR">
+        <seg>Les extractions étant quotidiennes, l'heure est nécessaire pour gérer les cas de reprises produisant plusieurs exports au cours d'une même journée.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T131437Z" creationid="Mr.Castrillon" creationdate="20180228T131308Z">
+        <seg>Para las extracciones que se realizan cotidianamente, es importante saber la hora para poder administrar los casos que producen varias exportaciones en la misma jornada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
         <seg>Les informations collectées sont saisies dans la base de données BCT<ph x="0">&lt;t0/&gt;</ph> (Base Clients Tiers)<ph x="1">&lt;t1/&gt;</ph>, utilisée par l’ensemble des entités du groupe CACEIS.</seg>
       </tuv>
       <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T033304Z" creationid="Mr.Castrillon" creationdate="20180227T225937Z">
@@ -1006,10 +1070,26 @@
     </tu>
     <tu>
       <tuv xml:lang="FR">
+        <seg>Les onglets dont le nom est préfixé de "<ph x="0">&lt;t0/&gt;</ph>qry<ph x="1">&lt;t1/&gt;</ph>_" sont dédiés à la récupération, via des requêtes SQL, des données stockées dans la base de l'IP.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T134326Z" creationid="Mr.Castrillon" creationdate="20180228T134326Z">
+        <seg>Les onglets dont le nom est préfixé de "<ph x="0">&lt;t0/&gt;</ph>qry<ph x="1">&lt;t1/&gt;</ph>_" sont dédiés à la récupération, via des requêtes SQL, des données stockées dans la base de l'IP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
         <seg>Les équipes AML KYC de CACEIS Luxembourg <ph x="0">&lt;t0/&gt;</ph>s’assurent, via<ph x="1">&lt;t1/&gt;</ph> la collecte et l<ph x="2">&lt;t2/&gt;</ph>’analyse de données et de documents, <ph x="3">&lt;t3/&gt;</ph>de la conformité des clients face aux législations <ph x="4">&lt;t4/&gt;</ph>visant à contrer le blanchiment<ph x="5">&lt;t5/&gt;</ph> <ph x="6">&lt;t6/&gt;</ph>et le financement du terrorisme.</seg>
       </tuv>
-      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T033230Z" creationid="Mr.Castrillon" creationdate="20180227T225323Z">
-        <seg>Los equipos AML KYC de CACEIS Luxembourg <ph x="0">&lt;t0/&gt;</ph>están asegurados, gracias a<ph x="1">&lt;t1/&gt;</ph> la recopilación y el <ph x="2">&lt;t2/&gt;</ph>análisis de datos y documentos <ph x="3">&lt;t3/&gt;</ph>sobre el respeto de las legislaciones <ph x="4">&lt;t4/&gt;</ph>que combaten el blanqueo<ph x="5">&lt;t5/&gt;</ph> <ph x="6">&lt;t6/&gt;</ph>y el financiamiento del terrorismo por parte de los clientes.</seg>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T134458Z" creationid="Mr.Castrillon" creationdate="20180227T225323Z">
+        <seg>Los equipos AML KYC de CACEIS Luxembourg <ph x="0">&lt;t0/&gt;</ph>aseguran, gracias a<ph x="1">&lt;t1/&gt;</ph> la recopilación y el <ph x="2">&lt;t2/&gt;</ph>análisis de datos y documentos, <ph x="3">&lt;t3/&gt;</ph>el respeto de las legislaciones <ph x="4">&lt;t4/&gt;</ph>que combaten el blanqueo<ph x="5">&lt;t5/&gt;</ph> <ph x="6">&lt;t6/&gt;</ph>y el financiamiento del terrorismo por parte de los clientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>ListAllOdbcConnString</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T131933Z" creationid="Mr.Castrillon" creationdate="20180228T131933Z">
+        <seg>ListAllOdbcConnString</seg>
       </tuv>
     </tu>
     <tu>
@@ -1030,10 +1110,26 @@
     </tu>
     <tu>
       <tuv xml:lang="FR">
+        <seg>Lorsque la chaîne de connexion définitive <ph x="6">&lt;t6/&gt;</ph>est<ph x="7">&lt;t7/&gt;</ph> connue, il convien<ph x="8">&lt;t8/&gt;</ph>t<ph x="9">&lt;t9/&gt;</ph> donc d'utiliser <ph x="10">&lt;t10/&gt;</ph>SetAllOdbcConnectionStrings<ph x="11">&lt;t11/&gt;</ph> avec la chaîne pointant vers les données BCT puis de modifier manuellement la chaîne pointant vers le CRM.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T134048Z" creationid="Mr.Castrillon" creationdate="20180228T134048Z">
+        <seg>Mientras que el canal de conexión <ph x="6">&lt;t6/&gt;</ph>sea<ph x="7">&lt;t7/&gt;</ph>reconocido, es mejor utilizar <ph x="10">&lt;t10/&gt;</ph>SetAllOdbcConnectionStrings<ph x="11">&lt;t11/&gt;</ph> con el canal apuntando hacia los datos BCT y luego editar manualmente el canal dirigido hacia el CRM. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
         <seg>L’IP (Informatique de proximité) a défini des bonnes pratiques et mis en place l’architecture associée.</seg>
       </tuv>
       <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T015504Z" creationid="Mr.Castrillon" creationdate="20180228T015504Z">
         <seg>La IP (Informática de proximidad) ha establecido buenas prácticas y posibilitado la implementación de la arquitectura asociada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>L’outil Excel fonctionne selon la logique générale suivante :</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T134130Z" creationid="Mr.Castrillon" creationdate="20180228T134130Z">
+        <seg>La herramienta en Excel funciona siguiendo la lógica siguiente:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1086,6 +1182,46 @@
     </tu>
     <tu>
       <tuv xml:lang="FR">
+        <seg>NA</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T131944Z" creationid="Mr.Castrillon" creationdate="20180228T131944Z">
+        <seg>NA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>NB : A ce jour, toutes les requêtes utilisent la même chaîne de connexion à l'exception de<ph x="0">&lt;t0/&gt;</ph>s deux<ph x="1">&lt;t1/&gt;</ph> requête<ph x="2">&lt;t2/&gt;</ph>s<ph x="3">&lt;t3/&gt;</ph> qui pointe<ph x="4">&lt;t4/&gt;</ph>nt<ph x="5">&lt;t5/&gt;</ph> vers le CRM.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T133554Z" creationid="Mr.Castrillon" creationdate="20180228T133554Z">
+        <seg>Nota : Hasta ahora, todas las peticiones utilizan el mismo canal de conexión, salvo <ph x="0">&lt;t0/&gt;</ph>dos<ph x="1">&lt;t1/&gt;</ph> peticione<ph x="2">&lt;t2/&gt;</ph>s<ph x="3">&lt;t3/&gt;</ph> que apunta<ph x="4">&lt;t4/&gt;</ph>n<ph x="5">&lt;t5/&gt;</ph> hacia el CRM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Nom</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T131929Z" creationid="Mr.Castrillon" creationdate="20180228T131929Z">
+        <seg>Nombre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>ODBC;DSN<ph x="0">&lt;t0/&gt;</ph>=SQLS_IPQ_WRITE_LUX;UID=BDP_FDS_READ;PWD=fi9EJ;APP=Microsoft Office 2010;WSID=FWPC-85232;DATABASE=BDP_CRM_2011;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T131810Z" creationid="Mr.Castrillon" creationdate="20180228T131810Z">
+        <seg>ODBC;DSN<ph x="0">&lt;t0/&gt;</ph>=SQLS_IPQ_WRITE_LUX;UID=BDP_FDS_READ;PWD=fi9EJ;APP=Microsoft Office 2010;WSID=FWPC-85232;DATABASE=BDP_CRM_2011;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>ODBC;DSN<ph x="0">&lt;t0/&gt;</ph>=SQLS_IPQ_WRITE_LUX;UID=BDP_FDS_READ;PWD=fi9EJ;APP=Microsoft Office 2010;WSID=FWPC-85232;DATABASE=BDP_FDS;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T131809Z" creationid="Mr.Castrillon" creationdate="20180228T131809Z">
+        <seg>ODBC;DSN<ph x="0">&lt;t0/&gt;</ph>=SQLS_IPQ_WRITE_LUX;UID=BDP_FDS_READ;PWD=fi9EJ;APP=Microsoft Office 2010;WSID=FWPC-85232;DATABASE=BDP_FDS;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
         <seg>Onglets des indicateurs</seg>
       </tuv>
       <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180227T223656Z" creationid="Mr.Castrillon" creationdate="20180227T223656Z">
@@ -1118,6 +1254,14 @@
     </tu>
     <tu>
       <tuv xml:lang="FR">
+        <seg>Paramètres</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T131942Z" creationid="Mr.Castrillon" creationdate="20180228T131942Z">
+        <seg>Parámetros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
         <seg>Personnalisation</seg>
       </tuv>
       <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180227T224030Z" creationid="Mr.Castrillon" creationdate="20180227T224030Z">
@@ -1130,6 +1274,14 @@
       </tuv>
       <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180227T224223Z" creationid="Mr.Castrillon" creationdate="20180227T224223Z">
         <seg>Agrupación de datos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
+        <seg>Remplace la chaîne de connexion existante par celle fournie en paramètre</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T133418Z" creationid="Mr.Castrillon" creationdate="20180228T133418Z">
+        <seg>Remplace el canal de conexión existente por el que devuelve el parámetro</seg>
       </tuv>
     </tu>
     <tu>
@@ -1158,10 +1310,18 @@
     </tu>
     <tu>
       <tuv xml:lang="FR">
+        <seg>SetAllOdbcConnectionStrings</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T133305Z" creationid="Mr.Castrillon" creationdate="20180228T133305Z">
+        <seg>SetAllOdbcConnectionStrings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="FR">
         <seg>Soit clients des autres activités (tenue de compte, valorisation, etc.) et alors considérés comme clients <ph x="0">&lt;t0/&gt;</ph>« B<ph x="1">&lt;t1/&gt;</ph>anque ».</seg>
       </tuv>
-      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T032051Z" creationid="Mr.Castrillon" creationdate="20180227T232431Z">
-        <seg>Clientes de otras actividades (mantenimiento de cuentas, valorizaciones, etc.), considerados como clientes del <ph x="0">&lt;t0/&gt;</ph>"B<ph x="1">&lt;t1/&gt;</ph>anco"</seg>
+      <tuv xml:lang="ES" changeid="Mr.Castrillon" changedate="20180228T135434Z" creationid="Mr.Castrillon" creationdate="20180227T232431Z">
+        <seg>Clientes de otras actividades (mantenimiento de cuentas, valorizaciones, etc.), considerados como clientes de <ph x="0">&lt;t0/&gt;</ph>"B<ph x="1">&lt;t1/&gt;</ph>anco".</seg>
       </tuv>
     </tu>
     <tu>

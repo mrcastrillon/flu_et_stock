@@ -1,0 +1,221 @@
+2270
+
+5124
+
+Lorsque l'étendue du champ date choisi (ici new_statusdate) est grande, la définition d'un filtre sur une période très courte peut être assez fastidieuse.
+
+Pour contourner ce problème, la sélection des dates à appliquer à la chronologie peut être définie par VBA :
+
+Mise à jour de la chronologie nommée sSlicer afin de définir un filtre entre la valeur de la cellule Excel dont le nom est XlNameFrom et celle dont le nom est sXlNameTo.
+
+En fonction de la taille de la fenêtre de dates choisie, la précision de l'affichage de la chronologie évolue (en jours, mois, trimestres ou années).
+
+La fonction UpdateTimeline est appelée par autant de procédures VBA qu'il y a de chronologies à mettre à jour (chaque chronologie a ses propres dates de début et de fin)
+
+Ainsi, à ce jour, 4 procédures ont été créées pour autant de chronologies
+
+Noms Excel utilisés
+
+ModifStatusFrom: nom de la cellule contenant la date de départ
+
+ : nom de la cellule contenant la date de départ
+
+ : nom de la chronologie
+
+Appel de la fonction UpdateTimeline pour mettre à jour la chronologie.
+
+DurationCloseFrom: nom de la cellule contenant la date de départ
+
+DurationCloseTo: nom de la cellule contenant la date de départ
+
+SlicerDurationClose: nom de la chronologie
+
+Appel de la fonction UpdateTimeline pour mettre à jour la chronologie
+
+CreatedOnFrom: nom de la cellule contenant la date de départ
+
+CreatedOnTo nom de la cellule contenant la date de départ
+
+SlicerCreatedOn: nom de la chronologie
+
+DerogSetupFrom: nom de la cellule contenant la date de départ
+
+DerogSetupTo: nom de la cellule contenant la date de départ
+
+SlicerDerogSetup: nom de la chronologie
+
+Les adresses des dates concernées sont visibles dans le gestionnaire de noms 
+
+NB : Lors de la création d'une nouvelle chronologie, Excel lui attribue un nom par défaut tel que ChronologieNative_nomduchamp qu'il est possible de modifier dans le gestionnaire de noms ci-dessus.
+
+Log, mode DEBUG & langue
+
+Les réalisations successives du programme et les éventuelles erreurs sont listées dans une feuille Excel :
+
+Par défaut, le programme écrit ces informations dans la feuille "log" du programme lui-même
+
+Cependant, particulièrement en cas de plantage d'Excel, il peut être intéressant d'écrire ces informations dans un fichier Excel différent sauvegardé au fur et à mesure.
+
+Pour cela, il faut passer la constante DEBUG_MODE à True et choisir le chemin de sauvegarde voulu avec la constante DEBUG_PATH
+
+Public Const WS_PARAMETERS As String = "Parametres
+
+Noms des colonnes du tableau de paramètres :
+
+La production des indicateurs demandés par le métier se fait en conformité avec cette architecture (Cf. schéma ci-dessous) :
+
+Les onglets dont le nom est préfixé de "qry_" sont dédiés à la récupération des données stockées dans les bases de données de l'IP.
+
+Les données présentes dans ces onglets sont essentiellement calculées par des Tableaux Croisés Dynamiques (TCD) basés sur les tableaux de données contenus dans les onglets qry_*.
+
+Les extractions automatiques mises en place par l'IP permettent d'historiser les données dans des bases dédiées.
+
+Ainsi, les extractions pour lesquelles les extractions sont mensuelles seront disponibles: 
+
+En date du dernier jour du mois précédent (End Of Last Month : EOLM)
+
+A ce jour, il est demandé que les historiques sont conservés sur 13 mois glissants
+
+Pour chacun des indicateurs, l'utilisateur a donc la possibilité de choisir la date des données à récupérer mais cela nécessite avant tout de mettre à jour la liste des dates disponibles dans le fichier Excel.
+
+A cet effet, l'utilisateur doit :
+
+se rendre dans l'onglet "Parametres" ;
+
+cliquer sur le bouton "Maj des dates d'extractions disponibles"
+
+attendre que le programme lui indique que cette mise à jour est terminée 
+
+Une fois mises à jour les dates d'extraction disponibles, l'utilisateur doit 
+
+choisir les indicateurs qu'il souhaite mettre à jour en renseignant "VRAI" dans la colonne "MAJ" ;
+
+choisir la date d'extraction des données à utiliser pour chacun des indicateurs dans la colonne "Date à utiliser" ;
+
+cliquer sur le bouton " Maj des indicateurs" ;
+
+La colonne "Fréquence" située à côté de la colonne "Date à utiliser" indique si l'extraction concernée est une extraction mensuelle (M), hebdomadaire (H) ou quotidienne (Q).
+
+NB : par défaut, la colonne "Date à utiliser" est toujours renseignée par la date d'extraction la plus récente disponible.
+
+Les différents indicateurs peuvent être consultés dans chacun des onglets en bleu
+
+La date d'extraction utilisée est indiquée dans le titre de l'onglet (ligne 2).
+
+Les indicateurs sont produits en utilisant des Tableaux Croisés Dynamiques (TCD) basés sur les données extraites.
+
+L'utilisateur a donc la possibilité de modifier ces TCD (par exemple d'échanger les lignes et les colonnes, ou de définir des critères différents, etc.).
+
+Attention : Si les modifications sont enregistrées, elles seront alors conservées par la suite
+
+En effet, il n'y a pas de "remise à zéro" des TCD par le programme.
+
+En cas d'incertitude, il peut être bénéfique de commencer par copier le TCD existant avant de le modifier.
+
+Par ailleurs, les noms des onglets Excel ou les intitulés des colonnes peuvent être modifiés (par exemple pour être en anglais) à condition de modifier en conséquence les constantes VBA du programme (à réaliser en relation avec l'IP uniquement)
+
+Pour modifier les critères de regroupement, faire un clic droit sur les étiquettes de ligne et cliquer sur "Grouper…".
+
+Pour contourner ce problème, l'utilisateur a la possibilité de saisir les dates de filtre qu'il souhaite appliquer dans 2 cellules Excel avant de cliquer sur le bouton "Maj du filtre".
+
+
+L'utilisateur a toujours la possibilité de modifier la frise manuellement en utilisant sa souris
+
+Il peut réinitialiser la chronologie en cliquant sur le bouton en haut à droite de la chronologie.
+
+Comme indiqué ci-avant, les données servant au calcul des indicateurs sont historisées et conservées sur 13 mois glissants.
+
+Il n'est donc pas nécessaire de conserver une copie du fichier Excel pour accéder à des données historiques.
+
+Cependant, si l'historisation des fichiers "en l'état" doit être faite, deux options existent
+
+Enregistrer une copie du fichier sur un répertoire adapté ;
+
+Ou enregistrer une <t0/>"version majeure"<t1/> directement dans SharePoint
+
+
+Un des besoins identifiés lors de l'atelier sur le "flux" de l'activité "Bank" consiste à récupérer deux extractions BCT, actuellement diffusées par des e-mails issus de l'équipe BMG (IP Paris), et à comparer les photos de la base à deux dates différentes.
+
+Extrait d'un tel fichier :
+
+Ces fichiers contiennent une 50aine de colonnes et plus de 80 000 lignes.Afin de remplacer des comparaisons par RECHERCHEV, un outil Excel est développé et fonctionne ainsi :
+
+Sélectionner les colonnes devant servir de clé d'identification dans la comparaison des deux fichiers (en indiquant le numéro de colonne du fichier source dans la colonne "Clé" du tableau de paramètres).
+
+Cliquer sur le bouton orange et choisir les deux fichiers à comparer (le plus ancien puis le plus récent).
+
+
+Attendre (environ 45 secondes avec des fichiers en local sur mon poste) et 4 fichiers Excel sont alors ouverts :
+
+Celui du programme (CompareLargeDatasets.xlsm)
+
+Les deux fichiers à comparer (ouverts en lecture seule)
+
+Le fichier résultat qui contient les noms des deux fichiers comparés, les entêtes de colonnes et un nombre pair de lignes de données :
+
+Les lignes numérotées impaires dans Excel viennent du premier fichier choisi (données les plus anciennes).
+
+Les lignes numérotées paires dans Excel viennent du second fichier choisi (données les plus récentes).
+
+Les données qui ont été modifiées d'un fichier à l'autre sont présentées sur fond jaune (Cf. ci-dessous).
+
+Programme de comparaison des fichiers :
+
+Exemple de résultat produit :
+
+Sous réserve d'une compréhension et d'une utilisation similaires des aspects KYC de la base BCT, la partie "Stock" des indicateurs développés peut être réutilisée par d'autres entités du groupe CACEIS.
+
+La mise en œuvre de cette adaptation dépend essentiellement des choix techniques de l'informatique de proximité.
+
+
+Utilisation des bases de l'IP Luxembourg
+
+Une première possibilité consiste à ajouter un paramètre "entité" dans les tables de l'IP :
+
+Nécessite de modifier tables de l'IP et les requêtes de chargement des données (SQL dans SSIS) ;
+
+Nécessite de modifier les requêtes de lecture des données (SQL dans Excel) pour ajouter un filtre sur l'entité ;
+
+Se traduit par l'existence d'un fichier Excel différent par entité ;
+
+
+N'offre pas toutes les garanties en matière de sécurité (un utilisateur pourrait modifier la requête de lecture pour récupérer des données d'une entité qu'il n'est pas supposé voir)
+
+Une bonne gestion de la sécurité imposerait la mise en place d'une restriction des périmètres visibles user par user (user au sens de celui mentionné dans la chaîne de connexion)
+
+Nécessite d'étudier puis de mettre en place des solutions techniques côté SQL Server ;
+
+Se traduit par l'existence d'un fichier Excel différent par entité ;
+
+Nécessite de modifier les chaînes de connexion des fichiers des nouvelles entités adopter le user adapté.
+
+Techniquement la plus simple, cette solution consiste à dupliquer les bases et requêtes mises en place au Luxembourg dans les différentes IP locales
+
+Implique de modifier la table de paramétrage des entités ;
+
+Les chaînes de connexion du fichier Excel sont modifiées de manière à pointer sur les bases nouvellement créées avec le User adapté.
+
+La production de cet indicateur a été dépriorisée car il n'a pas été trouvé de méthode permettant d'identifier précisément la personne à l'origine d'une modification sur l'un ou l'autre d'un sous-ensemble de champs sans utiliser la piste d'audit (à laquelle nous ne souhaitons pas recourir pour des raisons de performance).
+
+La production de cet indicateur peut être réalisée en quatre étapes
+
+Identification de similitudes textuelles : sur base des noms et adresses des Tiers, calcul d'un "ratio de similitude" (NB : ne permettra pas d'identifier que NAM est similaire à Natixis Asset Management).
+
+Ce travail peut a priori être réalisé de façon efficace par le complément "Fuzzy Lookup Add-In For Excel" disponible sur le site de Microsoft.
+
+Etude du résultat de l'étape 1 et saisie manuelle d'une table de mapping des tiers en doublon. 
+
+Un "Tiers principal" est choisi.
+
+A cette occasion, la mise en place d'une gestion "humaine" des acronymes de type NAM évoqués ci-dessus est envisageable
+
+Extraction SQL des données sous-jacentes au niveau de vigilance et à la matrice KYC.
+
+Pour chaque ensemble de doublons, comparaison des données du "Tiers principal" avec les données du doublon.
+
+AML KYC - Outils de pilotage du Flux et du Stock
+
+
+
+
+

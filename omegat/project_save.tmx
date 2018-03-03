@@ -8,8 +8,8 @@
       <tuv lang="FR">
         <seg>&amp;&lt;t0/&gt; : Les outils de pilotage &lt;t1/&gt;au format Excel &lt;t2/&gt;sont hébergés dans Share&lt;t3/&gt;P&lt;t4/&gt;oint&lt;t5/&gt; : &lt;t6/&gt;le programme rafraîchit &lt;t7/&gt;d&lt;t8/&gt;es tableaux de données et réalise les filtres, compilations, transformations, &lt;t9/&gt;..&lt;t10/&gt;.&lt;t11/&gt;,&lt;t12/&gt; &lt;t13/&gt;n&lt;t14/&gt;écessaires.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T033945Z" creationid="Mr.Castrillon" creationdate="20180228T023024Z">
-        <seg>&amp;&lt;t0/&gt; :Las herramientas de control &lt;t1/&gt;en formato Excel &lt;t2/&gt;están situadas en Share&lt;t3/&gt;P&lt;t4/&gt;oint&lt;t5/&gt;: &lt;t6/&gt;el programa actualiza &lt;t7/&gt;l&lt;t8/&gt;as tablas de datos y realiza los filtros, compilaciones y transformaciones necesarias.</seg>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T135859Z" creationid="Mr.Castrillon" creationdate="20180228T023024Z">
+        <seg>&amp;&lt;t0/&gt; : Las herramientas de control &lt;t1/&gt;en formato Excel &lt;t2/&gt;están situadas en Share&lt;t3/&gt;P&lt;t4/&gt;oint&lt;t5/&gt;: &lt;t6/&gt;el programa actualiza &lt;t7/&gt;l&lt;t8/&gt;as tablas de datos y realiza los filtros, compilaciones y transformaciones necesarias.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18,6 +18,22 @@
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T030745Z" creationid="Mr.Castrillon" creationdate="20180227T222012Z">
         <seg>(SAGALINK Consulting)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>05/01/2018 &lt;t0/&gt;17:&lt;t1/&gt;04</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T142950Z" creationid="Mr.Castrillon" creationdate="20180228T142950Z">
+        <seg>05/01/2018 &lt;t0/&gt;17:&lt;t1/&gt;04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>09/01/2018 &lt;t0/&gt;10:&lt;t1/&gt;04</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T142952Z" creationid="Mr.Castrillon" creationdate="20180228T142952Z">
+        <seg>09/01/2018 &lt;t0/&gt;10:&lt;t1/&gt;04</seg>
       </tuv>
     </tu>
     <tu>
@@ -424,8 +440,8 @@
       <tuv lang="FR">
         <seg>: E&lt;t0/&gt;xports de BCT (mainframe) vers l’entrepôt de données Sidéral (inchangé)&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T015831Z" creationid="Mr.Castrillon" creationdate="20180228T015831Z">
-        <seg>:E&lt;t0/&gt;xportación de BCT (mainframe) hacia el depósito de datos Sideral (invariable)&lt;t1/&gt;.</seg>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T135915Z" creationid="Mr.Castrillon" creationdate="20180228T015831Z">
+        <seg>: E&lt;t0/&gt;xportación de BCT (mainframe) hacia el depósito de datos Sideral (invariable)&lt;t1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,10 +454,50 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>&lt;t1/&gt;Un "Tiers principal"&lt;t2/&gt; est choisi.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T013345Z" creationid="Mr.Castrillon" creationdate="20180303T013345Z">
+        <seg>&lt;t1/&gt;Un "Tiers principal"&lt;t2/&gt; est choisi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>&lt;t2/&gt;Les données y sont "&lt;t3/&gt;timestampées&lt;t4/&gt;"&lt;t5/&gt; (via le champ "&lt;t6/&gt;date_extract&lt;t7/&gt;")&lt;t8/&gt; et historisées.&lt;t9/&gt; (NB : en pratique, il y a 2 bases IP : une pour les données BCT et une pour les données du CRM).</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T033843Z" creationid="Mr.Castrillon" creationdate="20180228T022528Z">
         <seg>&lt;t2/&gt;Se le asigna a los datos la " &lt;t3/&gt;fecha&lt;t4/&gt;"&lt;t5/&gt; (a través del campo "&lt;t6/&gt;date_extract&lt;t7/&gt;")&lt;t8/&gt; y también el historial.&lt;t9/&gt; (Nota : prácticamente, existen dos bases IP : una para los datos BCT y otra para los datos CRM).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>&lt;t3/&gt;A cette occasion, la mise en place d'une &lt;t4/&gt;gestion &lt;t5/&gt;"&lt;t6/&gt;humaine&lt;t7/&gt;"&lt;t8/&gt; des acronymes &lt;t9/&gt;de &lt;t10/&gt;type NAM&lt;t11/&gt; évoqués ci-dessus est envisageable.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T013422Z" creationid="Mr.Castrillon" creationdate="20180303T013422Z">
+        <seg>&lt;t3/&gt;A cette occasion, la mise en place d'une &lt;t4/&gt;gestion &lt;t5/&gt;"&lt;t6/&gt;humaine&lt;t7/&gt;"&lt;t8/&gt; des acronymes &lt;t9/&gt;de &lt;t10/&gt;type NAM&lt;t11/&gt; évoqués ci-dessus est envisageable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>A ce jour, il est demandé que les historiques sont conservés sur 13 mois glissants.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010458Z" creationid="Mr.Castrillon" creationdate="20180303T010458Z">
+        <seg>A ce jour, il est demandé que les historiques sont conservés sur 13 mois glissants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>A cet effet, l'utilisateur doit :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010531Z" creationid="Mr.Castrillon" creationdate="20180303T010531Z">
+        <seg>A cet effet, l'utilisateur doit :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>A renouveler</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T194136Z" creationid="Mr.Castrillon" creationdate="20180302T194136Z">
+        <seg>Para renovar</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Action</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T131950Z" creationid="Mr.Castrillon" creationdate="20180228T131950Z">
+        <seg>Acción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Actuellement, seul&lt;t0/&gt;e la relation avec&lt;t1/&gt; les clients « Investisseurs » &lt;t2/&gt;est&lt;t3/&gt; géré&lt;t4/&gt;e&lt;t5/&gt; via la CRM&lt;t6/&gt;, les échanges avec les clients « Banque » étant réalisés directement dans Outlook.</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T033635Z" creationid="Mr.Castrillon" creationdate="20180228T002007Z">
@@ -480,8 +544,48 @@
       <tuv lang="FR">
         <seg>Afin de piloter l’activité de l’équipe AML KYC, les managers de l’équipe sont demandeurs d’outils produisant des indicateurs portant tant sur la qualité des informations saisies, leur cohérence, leur complétude, que sur la charge de travail associée à l’alimentation et à la maintenance de la base de données.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T231657Z" creationid="Mr.Castrillon" creationdate="20180227T231657Z">
-        <seg>Para poder controlar la actividad del equipo AML KYC, los jefes del equipo operan como demandantes de herramientas que produzcan indicadores sobre la calidad de la información introducida, su coherencia, completitud, y además la carga de trabajo asociada a la alimentación y el mantenimiento de la base de datos. </seg>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T135228Z" creationid="Mr.Castrillon" creationdate="20180227T231657Z">
+        <seg>Para poder controlar la eficiencia del equipo AML KYC, los jefes de equipo exigen herramientas que produzcan indicadores sobre la calidad de la información introducida, su coherencia, completitud, y además la carga de trabajo asociada al almacenamiento y el mantenimiento de la base de datos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Ainsi, &lt;t11/&gt;Statuts&lt;t12/&gt; est utilisé dans des formules telles que = &lt;t13/&gt;RECHERCHEV([@[C_ETAT_SYNTHESE]&lt;t14/&gt;];&lt;t15/&gt; &lt;t16/&gt;Statuts;&lt;t17/&gt; &lt;t18/&gt;2;&lt;t19/&gt; &lt;t20/&gt;0)&lt;t21/&gt; et  correspond au tableau suivant :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T193827Z" creationid="Mr.Castrillon" creationdate="20180302T193602Z">
+        <seg>De este modo , &lt;t11/&gt;Estado&lt;t12/&gt;se utiliza en formulas como = &lt;t13/&gt;RECHERCHEV([@[C_ETAT_SYNTHESE]&lt;t14/&gt;];&lt;t15/&gt; &lt;t16/&gt;Estado;&lt;t17/&gt; &lt;t18/&gt;2;&lt;t19/&gt; &lt;t20/&gt;0)&lt;t21/&gt;, que corresponden a la tabla siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Ainsi, les extractions pour lesquelles les extractions sont mensuelles seront disponibles :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010409Z" creationid="Mr.Castrillon" creationdate="20180303T010409Z">
+        <seg>Ainsi, les extractions pour lesquelles les extractions sont mensuelles seront disponibles :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Ainsi, à ce jour, &lt;t2/&gt;4&lt;t3/&gt; procédures ont été créées &lt;t4/&gt;pour autant de chronologies &lt;t5/&gt;:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005721Z" creationid="Mr.Castrillon" creationdate="20180303T005721Z">
+        <seg>Ainsi, à ce jour, &lt;t2/&gt;4&lt;t3/&gt; procédures ont été créées &lt;t4/&gt;pour autant de chronologies &lt;t5/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Ajoute un nouvel onglet au fichier Excel</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T133056Z" creationid="Mr.Castrillon" creationdate="20180228T133056Z">
+        <seg>Añade una nueva pestaña al archivo Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Appel de la fonction &lt;t0/&gt;UpdateTimeline&lt;t1/&gt; pour mettre à jour la chronologie.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005929Z" creationid="Mr.Castrillon" creationdate="20180303T005929Z">
+        <seg>Appel de la fonction &lt;t0/&gt;UpdateTimeline&lt;t1/&gt; pour mettre à jour la chronologie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,6 +594,22 @@
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223143Z" creationid="Mr.Castrillon" creationdate="20180227T223143Z">
         <seg>Arquitectura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Attendre (environ 45 secondes avec des fichiers en local sur mon poste)&lt;t0/&gt; et &lt;t1/&gt;4 fichiers Excel sont alors ouverts :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T011959Z" creationid="Mr.Castrillon" creationdate="20180303T011959Z">
+        <seg>Attendre (environ 45 secondes avec des fichiers en local sur mon poste)&lt;t0/&gt; et &lt;t1/&gt;4 fichiers Excel sont alors ouverts :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Attention : Si les modifications sont enregistrées, elles seront alors conservées par la suite.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010905Z" creationid="Mr.Castrillon" creationdate="20180303T010905Z">
+        <seg>Attention : Si les modifications sont enregistrées, elles seront alors conservées par la suite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,10 +646,26 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Boucle sur toutes les chaînes de connexion ODBC existantes dans le fichier Excel et identifie la chaîne de connexion et la requête SQL associée</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T133234Z" creationid="Mr.Castrillon" creationdate="20180228T133234Z">
+        <seg>Se realiza un boucle a través de todos los canales de conexión de ODBC existentes en el archivo Excel e identifica el canal de conexión y la petición SQL asociada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T193714Z" creationid="Mr.Castrillon" creationdate="20180302T193714Z">
+        <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>C'est un champ &lt;t3/&gt;datetime&lt;t4/&gt; permettant de préciser la date et le jour où l'extraction a été réalisée.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T024925Z" creationid="Mr.Castrillon" creationdate="20180228T024823Z">
-        <seg>Campo &lt;t3/&gt;datetime&lt;t4/&gt; que permite determinar con precisión la fecha y el día en que se realizó la extracción.</seg>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T135809Z" creationid="Mr.Castrillon" creationdate="20180228T024823Z">
+        <seg>Es un campo &lt;t3/&gt;datetime&lt;t4/&gt; que permite determinar con precisión la fecha y el día en que se realizó la extracción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +674,46 @@
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T024238Z" creationid="Mr.Castrillon" creationdate="20180228T024238Z">
         <seg>Este campo esclarece si los datos consultados provienen de una exportación cotidiana, semanal o mensual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>COL_BOOL_UPDATE As String = "MAJ&lt;t0/&gt;"&lt;t1/&gt;, nom de la colonne contenant les &lt;t2/&gt;VRAI/FAUX saisis par l'utilisateur pour sélectionner les indicateurs à mettre à jour.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T182705Z" creationid="Mr.Castrillon" creationdate="20180302T182228Z">
+        <seg>COL_BOOL_UPDATE As String = "MAJ&lt;t0/&gt;"&lt;t1/&gt;, nombre de la columna que contiene los&lt;t2/&gt;VERDADERO/FALSO introducidos por el usuario para seleccionar los indicadores que se deben actualizar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>COL_DATES As String = "Date à utiliser"&lt;t0/&gt;, nom de la colonne contenant les dates d'extraction voulues par l'utilisateur.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T144243Z" creationid="Mr.Castrillon" creationdate="20180228T144218Z">
+        <seg>COL_DATES As String = "Date à utiliser"&lt;t0/&gt;, nombre de la columna en Excel que contiene las fechas de extracción deseadas por los usuarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>COL_MAX_DATES As String = "&lt;t0/&gt;MaxDatesDispo&lt;t1/&gt;"&lt;t2/&gt;, nom de la colonne contenant les dates d'extraction les plus récentes possibles pour chaque table.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T144321Z" creationid="Mr.Castrillon" creationdate="20180228T144233Z">
+        <seg>COL_MAX_DATES As String = "&lt;t0/&gt;MaxDatesDispo&lt;t1/&gt;"&lt;t2/&gt;, nombre de la columna en Excel que contiene las fechas de extracción más recientes para cada tabla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>COL_PIVOT_TABLES As String = "Onglets des TCD"&lt;t0/&gt;, nom de la colonne contenant les onglets dont les TCD sont à mettre à jour.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T183018Z" creationid="Mr.Castrillon" creationdate="20180302T183018Z">
+        <seg>COL_PIVOT_TABLES As String = "Pestañas TCD"&lt;t0/&gt;, nombre de la columna que contiene las pestañas donde se actualizarán los TCD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>COL_QUERIES As String = "Onglets des requêtes"&lt;t0/&gt;, nom de la colonne contenant les &lt;t1/&gt;onglets à mettre à jour pour requêter les données&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T182932Z" creationid="Mr.Castrillon" creationdate="20180302T182932Z">
+        <seg>COL_QUERIES As String = "Pestaña de peticiones"&lt;t0/&gt;, nombre de la columna que contiene las &lt;t1/&gt;las pestañas que deben ser actualizadas para realizar la petición de datos&lt;t2/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,6 +790,30 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Cas particulier de l'onglet qry_2_t</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T190610Z" creationid="Mr.Castrillon" creationdate="20180302T190610Z">
+        <seg>Casos particulares de la pestañas qry_2_t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Ce travail peut a priori être réalisé de façon efficace par le complément "&lt;t0/&gt;Fuzzy&lt;t1/&gt; &lt;t2/&gt;Lookup&lt;t3/&gt; &lt;t4/&gt;Add-In&lt;t5/&gt; For Excel" disponible &lt;t6/&gt;sur le site de &lt;t7/&gt;Microsoft&lt;t8/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012703Z" creationid="Mr.Castrillon" creationdate="20180303T012703Z">
+        <seg>Ce travail peut a priori être réalisé de façon efficace par le complément "&lt;t0/&gt;Fuzzy&lt;t1/&gt; &lt;t2/&gt;Lookup&lt;t3/&gt; &lt;t4/&gt;Add-In&lt;t5/&gt; For Excel" disponible &lt;t6/&gt;sur le site de &lt;t7/&gt;Microsoft&lt;t8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Cela est réalisé via des &lt;t0/&gt;RECHERCHEV&lt;t1/&gt; &lt;t2/&gt;définis sur la droite des tableaux de données et utilisant des noms définis dans l'onglet &lt;t3/&gt;correspondances&lt;t4/&gt; tels que &lt;t5/&gt;Statuts&lt;t6/&gt;, &lt;t7/&gt;Typologie&lt;t8/&gt;, &lt;t9/&gt;TypeDerog&lt;t10/&gt;, etc.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T193810Z" creationid="Mr.Castrillon" creationdate="20180302T193549Z">
+        <seg>Esto se realiza a través de &lt;t0/&gt;RECHERCHEV&lt;t1/&gt; &lt;t2/&gt;definido a la derecha de las tablas de datos utilizando los nombres establecidos en la pestaña&lt;t3/&gt;Correspondencias&lt;t4/&gt; y&lt;t5/&gt;Estado&lt;t6/&gt;, &lt;t7/&gt;Tipología&lt;t8/&gt;, &lt;t9/&gt;TypeDerog&lt;t10/&gt;, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Cela permet en particulier de gérer des exports multiples un même jour (le jour où l'export hebdo est aussi un jour d'export mensuel).</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T024401Z" creationid="Mr.Castrillon" creationdate="20180228T024401Z">
@@ -622,10 +822,98 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Cela permet, via un RECHERCHEV, de récupérer sur une même ligne les statuts déduits et saisis et de les comparer.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T193235Z" creationid="Mr.Castrillon" creationdate="20180228T143055Z">
+        <seg>Esto permite que a través de RECHERCHEV, se pueda recuperar en una misma fila los estados  deducidos e introducidos y poder compararlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Celui du programme (CompareLargeDatasets.xlsm)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012005Z" creationid="Mr.Castrillon" creationdate="20180303T012005Z">
+        <seg>Celui du programme (CompareLargeDatasets.xlsm)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Cependant, particulièrement en cas de plantage d'Excel, il peut être intéressant d'écrire ces informations dans un fichier Excel différent sauvegardé au fur et à mesure.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010200Z" creationid="Mr.Castrillon" creationdate="20180303T010200Z">
+        <seg>Cependant, particulièrement en cas de plantage d'Excel, il peut être intéressant d'écrire ces informations dans un fichier Excel différent sauvegardé au fur et à mesure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Cependant, si l'historisation des fichiers "en l'état" doit être faite, deux options existent :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T011046Z" creationid="Mr.Castrillon" creationdate="20180303T011046Z">
+        <seg>Cependant, si l'historisation des fichiers "en l'état" doit être faite, deux options existent :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Ces derniers sont nommés &lt;t2/&gt;tab_qry_&lt;t3/&gt;xxx&lt;t4/&gt; sans que ce nom ait une importance particulière pour le programme (il sert juste à la lisibilité).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T194750Z" creationid="Mr.Castrillon" creationdate="20180302T194750Z">
+        <seg>Estos se denominan &lt;t2/&gt;tab_qry_&lt;t3/&gt;xxx&lt;t4/&gt;, el nombre no tiene relevancia particular para el programa (sirve para la legibilidad)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Ces fichiers ODC sont centralisés dans Share&lt;t0/&gt;P&lt;t1/&gt;oint (versioning, gestion des accès).</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T023022Z" creationid="Mr.Castrillon" creationdate="20180228T022937Z">
         <seg>Estos archivos ODC están centralizados en Share&lt;t0/&gt;P&lt;t1/&gt;oint (gestión de versión, gestión de acceso).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Ces fichiers contiennent une 50aine de colonnes et &lt;t0/&gt;plus de 80 000 lignes.&lt;t1/&gt; Afin de remplacer des comparaisons par RECHERCHEV, un outil Excel est développé&lt;t2/&gt; et fonctionne ainsi :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T011931Z" creationid="Mr.Castrillon" creationdate="20180303T011931Z">
+        <seg>Ces fichiers contiennent une 50aine de colonnes et &lt;t0/&gt;plus de 80 000 lignes.&lt;t1/&gt; Afin de remplacer des comparaisons par RECHERCHEV, un outil Excel est développé&lt;t2/&gt; et fonctionne ainsi :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Ces tableaux sont nommés&lt;t0/&gt; &lt;t1/&gt;Dates_qry_&lt;t2/&gt;xxx&lt;t3/&gt; en fonction de la table requêtée, par exemple :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143832Z" creationid="Mr.Castrillon" creationdate="20180228T142957Z">
+        <seg>Estas tablas reciben el nombre&lt;t0/&gt; &lt;t1/&gt;Dates_qry_&lt;t2/&gt;xxx&lt;t3/&gt; según la tabla demandada, por ejemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Cet onglet contient également un tableau &lt;t0/&gt;Equipes&lt;t1/&gt; permettant d'associer facilement un agent à une équipe et offrant toute la souplesse nécessaire en cas de modification des équipes, d'arrivée ou de départ d'agents, de constitution de nouvelles équipes, etc.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T194615Z" creationid="Mr.Castrillon" creationdate="20180302T194615Z">
+        <seg>Esta pestaña contiene además la tabla &lt;t0/&gt;Equipes&lt;t1/&gt; que permite asociar fácilmente un agente con un equipo y ofrecer la flexibilidad necesaria en caso de modificación de equipos, de llegada o partida de los agentes, de constitución de nuevos equipos, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Cette donnée est affichée dans le tableau des paramètres utilisateurs (via un RECHERCHEV).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T182146Z" creationid="Mr.Castrillon" creationdate="20180302T182146Z">
+        <seg>Este dato es presentado en la tabla de configuración de usuario (a través de RECHERCHEV).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Chaque requête pointe ainsi vers la ligne adaptée de la colonne &lt;t0/&gt;Date SQL&lt;t1/&gt; &lt;t2/&gt;dans le tableau &lt;t3/&gt;RNG_PARAMETERS&lt;t4/&gt;, colonne renseignée par la formule &lt;t5/&gt;=&lt;t6/&gt;FormatDateSQL&lt;t7/&gt;(&lt;t8/&gt;[@[Date à utiliser]])&lt;t9/&gt; &lt;t10/&gt;permettant de passer la date choisie par l'utilisateur au format attendu par SQL.&lt;t11/&gt; Cette formule fait appel à une fonction VBA afin de contourner les problèmes de langues Excel&lt;t12/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T185107Z" creationid="Mr.Castrillon" creationdate="20180302T185107Z">
+        <seg>Cada petición apunta hacia una fila adaptada de la columna &lt;t0/&gt;Date SQL&lt;t1/&gt; &lt;t2/&gt;en la tabla &lt;t3/&gt;RNG_PARAMETERS&lt;t4/&gt;, columna alimentada a través de la formula &lt;t5/&gt;=&lt;t6/&gt;FormatDateSQL&lt;t7/&gt;(&lt;t8/&gt;[@[Fecha de uso]])&lt;t9/&gt; &lt;t10/&gt;permitiendo así introducir la fecha elegida por el usuario en un formato compatible con SQL.&lt;t11/&gt; Esta formula realizada una llamada a la función VBA con el objetivo de resolver los problemas del lenguaje Excel.&lt;t12/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Chaîne de connexion souhaitée</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T133315Z" creationid="Mr.Castrillon" creationdate="20180228T133315Z">
+        <seg>Canal de conexión deseado</seg>
       </tuv>
     </tu>
     <tu>
@@ -646,6 +934,22 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Chronologies&lt;t0/&gt; (timelines)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T200237Z" creationid="Mr.Castrillon" creationdate="20180302T200237Z">
+        <seg>Cronologías&lt;t0/&gt; (timelines)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Cliquer sur le bouton orange et choisir les deux fichiers à comparer (le plus ancien puis le plus récent).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T011944Z" creationid="Mr.Castrillon" creationdate="20180303T011944Z">
+        <seg>Cliquer sur le bouton orange et choisir les deux fichiers à comparer (le plus ancien puis le plus récent).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Cohérence des Tiers "communs" à l'activité TA et Bank</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T225159Z" creationid="Mr.Castrillon" creationdate="20180227T225159Z">
@@ -654,10 +958,42 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Comme indiqué ci-avant, les données servant au calcul des indicateurs sont historisées et conservées sur 13 mois glissants.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T011033Z" creationid="Mr.Castrillon" creationdate="20180303T011033Z">
+        <seg>Comme indiqué ci-avant, les données servant au calcul des indicateurs sont historisées et conservées sur 13 mois glissants.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Comparaison de fichiers de grande taille</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224537Z" creationid="Mr.Castrillon" creationdate="20180227T224537Z">
         <seg>Comparación de ficheros grandes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Complet</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T194010Z" creationid="Mr.Castrillon" creationdate="20180302T193717Z">
+        <seg>Finalizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Complet avec dérogation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T194018Z" creationid="Mr.Castrillon" creationdate="20180302T193722Z">
+        <seg>Finalizado con excepciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Constantes utilisées</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143933Z" creationid="Mr.Castrillon" creationdate="20180228T143015Z">
+        <seg>Constantes utilizadas</seg>
       </tuv>
     </tu>
     <tu>
@@ -678,6 +1014,70 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>CreatedOnFrom&lt;t0/&gt; &lt;t1/&gt;: nom de la cellule contenant la date de départ</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005947Z" creationid="Mr.Castrillon" creationdate="20180303T005947Z">
+        <seg>CreatedOnFrom&lt;t0/&gt; &lt;t1/&gt;: nom de la cellule contenant la date de départ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>CreatedOnTo&lt;t0/&gt; &lt;t1/&gt;: nom de la cellule contenant la date de départ</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010000Z" creationid="Mr.Castrillon" creationdate="20180303T010000Z">
+        <seg>CreatedOnTo&lt;t0/&gt; &lt;t1/&gt;: nom de la cellule contenant la date de départ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T193717Z" creationid="Mr.Castrillon" creationdate="20180302T193717Z">
+        <seg>D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>DATES_1 = Dates_qry_1[&lt;t0/&gt;date_extract&lt;t1/&gt;]</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143025Z" creationid="Mr.Castrillon" creationdate="20180228T143025Z">
+        <seg>DATES_1 = Dates_qry_1[&lt;t0/&gt;date_extract&lt;t1/&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>DATES_2 = Dates_qry_2[&lt;t0/&gt;date_extract&lt;t1/&gt;]</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143025Z" creationid="Mr.Castrillon" creationdate="20180228T143025Z">
+        <seg>DATES_2 = Dates_qry_2[&lt;t0/&gt;date_extract&lt;t1/&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>DATES_5 = Dates_qry_5[&lt;t0/&gt;date_extract&lt;t1/&gt;]</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143025Z" creationid="Mr.Castrillon" creationdate="20180228T143025Z">
+        <seg>DATES_5 = Dates_qry_5[&lt;t0/&gt;date_extract&lt;t1/&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>DATES_6 = Dates_qry_6[&lt;t0/&gt;date_extract&lt;t1/&gt;]</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143026Z" creationid="Mr.Castrillon" creationdate="20180228T143026Z">
+        <seg>DATES_6 = Dates_qry_6[&lt;t0/&gt;date_extract&lt;t1/&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>DATES_7_8 = Dates_qry_7_8[&lt;t0/&gt;date_extract&lt;t1/&gt;]</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143027Z" creationid="Mr.Castrillon" creationdate="20180228T143027Z">
+        <seg>DATES_7_8 = Dates_qry_7_8[&lt;t0/&gt;date_extract&lt;t1/&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>D_DEB_VALIDITE</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T024004Z" creationid="Mr.Castrillon" creationdate="20180228T024004Z">
@@ -694,6 +1094,30 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Dans l'attente d'une migration sous Office 2016, l'utilisation des chronologies est donc impossible et peut être remplacée par l'utilisation des groupes mentionnés ci-dessus.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T225227Z" creationid="Mr.Castrillon" creationdate="20180302T225227Z">
+        <seg>Por el momento, hasta que no efectúe la migración hacia Office 2016, el uso de las cronologías es imposible y pudiera remplazarse por por el uso de los grupos mencionados a continuación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Dans l'onglet &lt;t0/&gt;Parametres&lt;t1/&gt;, pour chaque indicateur, la colonne &lt;t2/&gt;COL_MAX_DATES&lt;t3/&gt; contient la formule Excel &lt;t4/&gt;=MAX(INDIRECT(&lt;t5/&gt;DATES_&lt;t6/&gt;xxx&lt;t7/&gt;))&lt;t8/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T181309Z" creationid="Mr.Castrillon" creationdate="20180302T181309Z">
+        <seg>En la pestaña &lt;t0/&gt;Parametres&lt;t1/&gt;, para cada indicador, la columna &lt;t2/&gt;COL_MAX_DATES&lt;t3/&gt; contiene la formula Excel &lt;t4/&gt;=MAX(INDIRECT(&lt;t5/&gt;DATES_&lt;t6/&gt;xxx&lt;t7/&gt;))&lt;t8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Dans l'onglet &lt;t0/&gt;Parametres&lt;t1/&gt;, pour chaque indicateur, le nom &lt;t2/&gt;DATES_&lt;t3/&gt;xxx&lt;t4/&gt; associé est indiqué dans la colonne "&lt;t5/&gt;Zones des dates&lt;t6/&gt;".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T181209Z" creationid="Mr.Castrillon" creationdate="20180302T181209Z">
+        <seg>En la pestaña &lt;t0/&gt;Parametres&lt;t1/&gt;, para cada indicador, el nombre &lt;t2/&gt;DATES_&lt;t3/&gt;xxx&lt;t4/&gt; correspondiente se indica en la columna "&lt;t5/&gt;Zones des dates&lt;t6/&gt;".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Date : &lt;t0/&gt;21&lt;t1/&gt;/02&lt;t2/&gt;/2018</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T221751Z" creationid="Mr.Castrillon" creationdate="20180227T221733Z">
@@ -702,10 +1126,106 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Dates_qry_1</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T142958Z" creationid="Mr.Castrillon" creationdate="20180228T142958Z">
+        <seg>Dates_qry_1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Dates_qry_2</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T142958Z" creationid="Mr.Castrillon" creationdate="20180228T142958Z">
+        <seg>Dates_qry_2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Dates_qry_5</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T142959Z" creationid="Mr.Castrillon" creationdate="20180228T142959Z">
+        <seg>Dates_qry_5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Dates_qry_6</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T142959Z" creationid="Mr.Castrillon" creationdate="20180228T142959Z">
+        <seg>Dates_qry_6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Dates_qry_7_8</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T142959Z" creationid="Mr.Castrillon" creationdate="20180228T142959Z">
+        <seg>Dates_qry_7_8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>De choisir les indicateurs à mettre à jour et la date d'extraction voulue ;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T141305Z" creationid="Mr.Castrillon" creationdate="20180228T141305Z">
+        <seg>Escoger los indicadores que serán actualizados y la fecha de extracción deseada;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>De lancer la mise à jour des onglets d'indicateurs.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T141329Z" creationid="Mr.Castrillon" creationdate="20180228T141329Z">
+        <seg>Lanzar la actualización de las pestañas de los indicadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>De mettre à jour la liste des dates d'extraction possibles ;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T141222Z" creationid="Mr.Castrillon" creationdate="20180228T141222Z">
+        <seg>Actualizar la lista de fechas de extracción posibles;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>DerogSetupFrom&lt;t0/&gt; &lt;t1/&gt;: nom de la cellule contenant la date de départ</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010022Z" creationid="Mr.Castrillon" creationdate="20180303T010022Z">
+        <seg>DerogSetupFrom&lt;t0/&gt; &lt;t1/&gt;: nom de la cellule contenant la date de départ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>DerogSetupTo&lt;t0/&gt; &lt;t1/&gt;: nom de la cellule contenant la date de départ</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010033Z" creationid="Mr.Castrillon" creationdate="20180303T010033Z">
+        <seg>DerogSetupTo&lt;t0/&gt; &lt;t1/&gt;: nom de la cellule contenant la date de départ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Des noms &lt;t0/&gt;DATES_&lt;t1/&gt;xxx&lt;t2/&gt; sont définis comme étant &lt;t3/&gt;=&lt;t4/&gt;Dates_qry_&lt;t5/&gt;xxx&lt;t6/&gt;[&lt;t7/&gt;date_extract&lt;t8/&gt;]</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T180705Z" creationid="Mr.Castrillon" creationdate="20180302T180705Z">
+        <seg>Los nombres de &lt;t0/&gt;DATES_&lt;t1/&gt;xxx&lt;t2/&gt; como están en &lt;t3/&gt;=&lt;t4/&gt;Dates_qry_&lt;t5/&gt;xxx&lt;t6/&gt;[&lt;t7/&gt;date_extract&lt;t8/&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Deux bases de données sont utilisées pour stocker les données nécessaires au calcul des indicateurs :</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T034002Z" creationid="Mr.Castrillon" creationdate="20180228T023315Z">
         <seg>Se utilizan dos bases de datos para almacenar los datos necesarios para el cálculo de los indicadores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Deux outils permett&lt;t0/&gt;e&lt;t1/&gt;nt de gérer ces chaînes&lt;t2/&gt; &lt;t3/&gt;:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T131923Z" creationid="Mr.Castrillon" creationdate="20180228T131923Z">
+        <seg>Dos herramienta&lt;t0/&gt;s&lt;t1/&gt; posibilitan la administración de estos canales&lt;t2/&gt; &lt;t3/&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,10 +1262,42 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Du fait de la modélisation des données dans BCT, la production de l'indicateur 2 sur les Tiers nécessite de requêter deux fois les données :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T192658Z" creationid="Mr.Castrillon" creationdate="20180302T192658Z">
+        <seg>Debido a la modelización de datos en BCT, la producción del indicador 2 en el Tiers necesita realizar dos veces la petición de los datos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Duplication dans les IP locales</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T031404Z" creationid="Mr.Castrillon" creationdate="20180227T224831Z">
         <seg>Duplicación en IP locales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>DurationCloseFrom&lt;t0/&gt; &lt;t1/&gt;: nom de la cellule contenant la date de départ</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005836Z" creationid="Mr.Castrillon" creationdate="20180303T005836Z">
+        <seg>DurationCloseFrom&lt;t0/&gt; &lt;t1/&gt;: nom de la cellule contenant la date de départ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>DurationCloseTo&lt;t0/&gt; &lt;t1/&gt;: nom de la cellule contenant la date de départ</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005903Z" creationid="Mr.Castrillon" creationdate="20180303T005903Z">
+        <seg>DurationCloseTo&lt;t0/&gt; &lt;t1/&gt;: nom de la cellule contenant la date de départ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Ecrit ces informations dans l'onglet préalablement ajouté</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T133302Z" creationid="Mr.Castrillon" creationdate="20180228T133302Z">
+        <seg>escriba esta información en la pestaña recientemente creada</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,10 +1310,114 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>En cas d'incertitude, il peut être bénéfique de commencer par copier le TCD existant avant de le modifier.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010925Z" creationid="Mr.Castrillon" creationdate="20180303T010925Z">
+        <seg>En cas d'incertitude, il peut être bénéfique de commencer par copier le TCD existant avant de le modifier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>En date EOLM - 1M (End Of Last &lt;t0/&gt;Month&lt;t1/&gt; moins 1 mois)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010446Z" creationid="Mr.Castrillon" creationdate="20180303T010446Z">
+        <seg>En date EOLM - 1M (End Of Last &lt;t0/&gt;Month&lt;t1/&gt; moins 1 mois)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>En date du dernier jour du mois précédent (End Of Last &lt;t0/&gt;Month&lt;t1/&gt; : EOLM)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010432Z" creationid="Mr.Castrillon" creationdate="20180303T010432Z">
+        <seg>En date du dernier jour du mois précédent (End Of Last &lt;t0/&gt;Month&lt;t1/&gt; : EOLM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>En effet, BCT est une base Mainframe qui n’est pas requêtée mais via une base intermédiaire nommée Sidéral.</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T032607Z" creationid="Mr.Castrillon" creationdate="20180228T015939Z">
         <seg>De hecho, BCT es una base Mainframe que recibe peticiones sólo a través de una base intermediaria denominada Sideral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>En effet, certains indicateurs sont demandés à la fois en hebdomadaire et en mensuel et ce champ permet de les différencier dans le cas où les deux extractions auraient lieu le même jour.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T182102Z" creationid="Mr.Castrillon" creationdate="20180302T182102Z">
+        <seg>De hecho, algunas veces se realiza la petición de los mismos indicadores a la vez semanalmente y mensualmente y este campo permite diferenciar en el caso que la extracciones se hayan realizado el mismo día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>En effet, il n'y a pas de "remise à zéro" des TCD par le programme.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010917Z" creationid="Mr.Castrillon" creationdate="20180303T010917Z">
+        <seg>En effet, il n'y a pas de "remise à zéro" des TCD par le programme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>En effet, l'application du choix de l'utilisateur se fait en pratique directement dans la &lt;t0/&gt;définition des requêtes qui sont formulées ainsi :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T184459Z" creationid="Mr.Castrillon" creationdate="20180302T184459Z">
+        <seg>En verdad, la aplicación elegida por el usuario se conforma prácticamente en la&lt;t0/&gt; definición de peticiones que son formuladas de la siguiente forma:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>En fonction de la taille de la fenêtre de dates choisie, la précision de l'affichage de la chronologie évolue (en jours, mois, trimestres ou années).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005639Z" creationid="Mr.Castrillon" creationdate="20180303T005639Z">
+        <seg>En fonction de la taille de la fenêtre de dates choisie, la précision de l'affichage de la chronologie évolue (en jours, mois, trimestres ou années).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>En plus du paramétrage classique des TCD (sélection des lignes, colonnes, données, filtres), les TDC utilisés dans les indicateurs font appel à des groupes et à des chronologies.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T194958Z" creationid="Mr.Castrillon" creationdate="20180302T194958Z">
+        <seg>Además de los parámetros clásicos de los TCD (selección de filas, columnas, datos, filtros), los TCD que se utilizan en los indicadores realizan una llamada a los grupos y a las cronologías.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Enregistrer une copie du fichier sur un répertoire adapté ;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T011819Z" creationid="Mr.Castrillon" creationdate="20180303T011819Z">
+        <seg>Enregistrer une copie du fichier sur un répertoire adapté ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Etc.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143000Z" creationid="Mr.Castrillon" creationdate="20180228T143000Z">
+        <seg>Etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Etude du résultat de l'étape 1 et saisie manuelle d'une table de mapping des tiers en doublon&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T013334Z" creationid="Mr.Castrillon" creationdate="20180303T013334Z">
+        <seg>Etude du résultat de l'étape 1 et saisie manuelle d'une table de mapping des tiers en doublon&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Excel propose naturellement des groupes Années/Trimestres/Mois sur les champs Date.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T225310Z" creationid="Mr.Castrillon" creationdate="20180302T225310Z">
+        <seg>Excel brinda actualmente tres grupos: Año/Trimestres/Mes en el campo Date.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Exemple de résultat produit :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012117Z" creationid="Mr.Castrillon" creationdate="20180303T012117Z">
+        <seg>Exemple de résultat produit :</seg>
       </tuv>
     </tu>
     <tu>
@@ -778,6 +1434,22 @@
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T030828Z" creationid="Mr.Castrillon" creationdate="20180227T223033Z">
         <seg>Expresiones de Peticiones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Extraction SQL des données &lt;t0/&gt;sous-jacentes&lt;t1/&gt; au niveau de vigilance et à la matrice KYC&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T013434Z" creationid="Mr.Castrillon" creationdate="20180303T013434Z">
+        <seg>Extraction SQL des données &lt;t0/&gt;sous-jacentes&lt;t1/&gt; au niveau de vigilance et à la matrice KYC&lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Extrait d'un tel fichier :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T011917Z" creationid="Mr.Castrillon" creationdate="20180303T011917Z">
+        <seg>Extrait d'un tel fichier :</seg>
       </tuv>
     </tu>
     <tu>
@@ -878,10 +1550,82 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>FROM &lt;t0/&gt;FDS_tab_qry_2_TIERS_ROLE</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143046Z" creationid="Mr.Castrillon" creationdate="20180228T143046Z">
+        <seg>FROM &lt;t0/&gt;FDS_tab_qry_2_TIERS_ROLE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>FormatDateSQL&lt;t0/&gt; = &lt;t1/&gt;Format(&lt;t2/&gt;dateToFormat&lt;t3/&gt;, "&lt;t4/&gt;yyyy&lt;t5/&gt;-mm-dd &lt;t6/&gt;hh:mm:ss&lt;t7/&gt;")</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T190354Z" creationid="Mr.Castrillon" creationdate="20180302T190354Z">
+        <seg>FormatDateSQL&lt;t0/&gt; = &lt;t1/&gt;Format(&lt;t2/&gt;dateToFormat&lt;t3/&gt;, "&lt;t4/&gt;yyyy&lt;t5/&gt;-mm-dd &lt;t6/&gt;hh:mm:ss&lt;t7/&gt;")</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Groupes</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T195003Z" creationid="Mr.Castrillon" creationdate="20180302T195003Z">
+        <seg>Grupos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Historisation des indicateurs</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224430Z" creationid="Mr.Castrillon" creationdate="20180227T224430Z">
         <seg>Historización de los indicadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T193723Z" creationid="Mr.Castrillon" creationdate="20180302T193723Z">
+        <seg>I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Identification de similitudes textuelles : sur base des noms et adresses des Tiers, calcul d'un "ratio de similitude" (NB : ne permettra pas d'identifier que NAM est similaire à Natixis Asset Management).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012631Z" creationid="Mr.Castrillon" creationdate="20180303T012631Z">
+        <seg>Identification de similitudes textuelles : sur base des noms et adresses des Tiers, calcul d'un "ratio de similitude" (NB : ne permettra pas d'identifier que NAM est similaire à Natixis Asset Management).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Il n'est donc pas nécessaire de conserver une copie du fichier Excel pour accéder à des données historiques.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T011039Z" creationid="Mr.Castrillon" creationdate="20180303T011039Z">
+        <seg>Il n'est donc pas nécessaire de conserver une copie du fichier Excel pour accéder à des données historiques.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Il peut réinitialiser la chronologie en cliquant sur le bouton &lt;t0/&gt; en haut à droite de la chronologie.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T011025Z" creationid="Mr.Castrillon" creationdate="20180303T011025Z">
+        <seg>Il peut réinitialiser la chronologie en cliquant sur le bouton &lt;t0/&gt; en haut à droite de la chronologie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Il y a une correspondance 1 pour 1 entre les onglets de données et les onglets d'indicateurs.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T194824Z" creationid="Mr.Castrillon" creationdate="20180302T194824Z">
+        <seg>Existe una correspondencia de 1 por 1 entre las pestañas de datos y los pestañas de los indicadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Implique de modifier la table de paramétrage des entités&lt;t0/&gt; ;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012521Z" creationid="Mr.Castrillon" creationdate="20180303T012521Z">
+        <seg>Implique de modifier la table de paramétrage des entités&lt;t0/&gt; ;</seg>
       </tuv>
     </tu>
     <tu>
@@ -894,10 +1638,58 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Incomplet</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T193948Z" creationid="Mr.Castrillon" creationdate="20180302T193726Z">
+        <seg>Completo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Incomplet, en constitution</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T194245Z" creationid="Mr.Castrillon" creationdate="20180302T194245Z">
+        <seg>Incompleto, en progreso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Indicateurs dépriorisés</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224921Z" creationid="Mr.Castrillon" creationdate="20180227T224921Z">
         <seg>Indicadores sin prioridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>J</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T194235Z" creationid="Mr.Castrillon" creationdate="20180302T194235Z">
+        <seg>J</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>L'usage de ces noms sera détaillé dans chaque paragraphe concerné.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143235Z" creationid="Mr.Castrillon" creationdate="20180228T142944Z">
+        <seg>El uso de estos nombres se detallará en los párrafos correspondientes..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>L'utilisateur a donc la possibilité de modifier ces TCD (par exemple d'échanger les lignes et les colonnes, ou de définir des critères différents, etc.).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010900Z" creationid="Mr.Castrillon" creationdate="20180303T010900Z">
+        <seg>L'utilisateur a donc la possibilité de modifier ces TCD (par exemple d'échanger les lignes et les colonnes, ou de définir des critères différents, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>L'utilisateur a toujours la possibilité de modifier la frise manuellement en utilisant sa souris.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T011012Z" creationid="Mr.Castrillon" creationdate="20180303T011012Z">
+        <seg>L'utilisateur a toujours la possibilité de modifier la frise manuellement en utilisant sa souris.</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,6 +1718,118 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>La colonne "&lt;t0/&gt;Fréquence&lt;t1/&gt;" située à côté de la colonne "&lt;t2/&gt;Date à utiliser&lt;t3/&gt;" indique si l'extraction concernée est une extraction mensuelle (M), hebdomadaire (H) ou quotidienne (Q).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010753Z" creationid="Mr.Castrillon" creationdate="20180303T010753Z">
+        <seg>La colonne "&lt;t0/&gt;Fréquence&lt;t1/&gt;" située à côté de la colonne "&lt;t2/&gt;Date à utiliser&lt;t3/&gt;" indique si l'extraction concernée est une extraction mensuelle (M), hebdomadaire (H) ou quotidienne (Q).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La date d'extraction utilisée est indiquée dans le titre de l'onglet (ligne 2).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010842Z" creationid="Mr.Castrillon" creationdate="20180303T010842Z">
+        <seg>La date d'extraction utilisée est indiquée dans le titre de l'onglet (ligne 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La fonction &lt;t0/&gt;UpdateTimeline&lt;t1/&gt; est appelée par autant de procédures VBA qu'il y a de chronologies à mettre à jour (chaque chronologie a ses propres dates de début et de fin).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005657Z" creationid="Mr.Castrillon" creationdate="20180303T005657Z">
+        <seg>La fonction &lt;t0/&gt;UpdateTimeline&lt;t1/&gt; est appelée par autant de procédures VBA qu'il y a de chronologies à mettre à jour (chaque chronologie a ses propres dates de début et de fin).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La fonction est définie ainsi&lt;t13/&gt; :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T185124Z" creationid="Mr.Castrillon" creationdate="20180302T185124Z">
+        <seg>La función de define del siguiente modo&lt;t13/&gt; :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La liaison entre les tableaux Excel et les bases de données sont réalisées via des chaînes de connexion&lt;t0/&gt; telle que :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T131808Z" creationid="Mr.Castrillon" creationdate="20180228T131808Z">
+        <seg>Gracias a los canales de conexión, se establece la relación entre las tablas en Excel y las bases de datos&lt;t0/&gt; tales como :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La mise en œuvre de cette adaptation dépend &lt;t0/&gt;essentiellement des choix techniques &lt;t1/&gt;de l'informatique de proximité&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012135Z" creationid="Mr.Castrillon" creationdate="20180303T012135Z">
+        <seg>La mise en œuvre de cette adaptation dépend &lt;t0/&gt;essentiellement des choix techniques &lt;t1/&gt;de l'informatique de proximité&lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La mise à jo&lt;t0/&gt;ur des tableaux de données fait appel à &lt;t1/&gt;RefreshTables&lt;t2/&gt; &lt;t3/&gt;:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T183242Z" creationid="Mr.Castrillon" creationdate="20180302T183242Z">
+        <seg>La actualización de&lt;t0/&gt;las tablas de datos realizan un llamado a&lt;t1/&gt;RefreshTables&lt;t2/&gt; &lt;t3/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La mise à jour &lt;t0/&gt;VBA &lt;t1/&gt;des &lt;t2/&gt;données &lt;t3/&gt;est &lt;t4/&gt;automatisée&lt;t5/&gt; par &lt;t6/&gt;UpdateExtractionDates&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143921Z" creationid="Mr.Castrillon" creationdate="20180228T143003Z">
+        <seg>La actualización &lt;t0/&gt;VBA &lt;t1/&gt;de &lt;t2/&gt;los datos &lt;t3/&gt;es &lt;t4/&gt;automatizada&lt;t5/&gt; a través de &lt;t6/&gt;UpdateExtractionDates&lt;t7/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La mise à jour &lt;t0/&gt;des &lt;t1/&gt;dates dans &lt;t2/&gt;WS_EXTRACTION_DATES&lt;t3/&gt; se fait par simple "Actualisation du tableau", la définition de la requête SQL étant intégrée dans l'objet tableau.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T145053Z" creationid="Mr.Castrillon" creationdate="20180228T145053Z">
+        <seg>La actualización &lt;t0/&gt;de las &lt;t1/&gt;fechas en &lt;t2/&gt;WS_EXTRACTION_DATES&lt;t3/&gt; se realiza a través de una simple "Actualización de la tabla", la definición de la petición SQL está integrada dentro del objeto tabla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La mise à jour VBA des données est automatisée par &lt;t0/&gt;UpdateDataFromSqlServer&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T182216Z" creationid="Mr.Castrillon" creationdate="20180302T182216Z">
+        <seg>La actualización VBA de los datos es automatizada por &lt;t0/&gt;UpdateDataFromSqlServer&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La mise à jour de la colonne &lt;t0/&gt;COL_DATES &lt;t1/&gt;avec les dates les plus récentes possibles s'appuie sur du paramétrage Excel :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T181859Z" creationid="Mr.Castrillon" creationdate="20180228T181859Z">
+        <seg>La actualización de la columna &lt;t0/&gt;COL_DATES &lt;t1/&gt;con las fechas más recientes depende de la configuración del Excel:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La mise à jour des TCD fait appel à &lt;t0/&gt;RefreshPivotTables&lt;t1/&gt; &lt;t2/&gt;:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T190423Z" creationid="Mr.Castrillon" creationdate="20180302T190423Z">
+        <seg>La actualización de los TCD realiza un llamado a &lt;t0/&gt;RefreshPivotTables&lt;t1/&gt; &lt;t2/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La production de cet indicateur a été dépriorisée car &lt;t0/&gt;il n'a pas été trouvé de méthode permettant d'identifier précisément la personne à l'origine d'une modification sur l'un ou l'autre d'un sous-ensemble de champs sans &lt;t1/&gt;utiliser la piste d'audit&lt;t2/&gt; (à laquelle nous ne souhaitons pas &lt;t3/&gt;recourir pour des raisons de performance).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012605Z" creationid="Mr.Castrillon" creationdate="20180303T012605Z">
+        <seg>La production de cet indicateur a été dépriorisée car &lt;t0/&gt;il n'a pas été trouvé de méthode permettant d'identifier précisément la personne à l'origine d'une modification sur l'un ou l'autre d'un sous-ensemble de champs sans &lt;t1/&gt;utiliser la piste d'audit&lt;t2/&gt; (à laquelle nous ne souhaitons pas &lt;t3/&gt;recourir pour des raisons de performance).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La production de cet indicateur&lt;t0/&gt; peut&lt;t1/&gt; &lt;t2/&gt;être &lt;t3/&gt;réalisée en quatre étapes :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012623Z" creationid="Mr.Castrillon" creationdate="20180303T012623Z">
+        <seg>La production de cet indicateur&lt;t0/&gt; peut&lt;t1/&gt; &lt;t2/&gt;être &lt;t3/&gt;réalisée en quatre étapes :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>La production des indicateurs demandés par le métier se fait en conformité &lt;t0/&gt;avec cette &lt;t1/&gt;architecture (&lt;t2/&gt;Cf. schéma ci-dessous) :</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T032542Z" creationid="Mr.Castrillon" creationdate="20180228T015711Z">
@@ -934,10 +1838,34 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>La production des indicateurs demandés par le métier se fait en conformité avec cette architecture (Cf. schéma ci-dessous) :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010314Z" creationid="Mr.Castrillon" creationdate="20180303T010314Z">
+        <seg>La production des indicateurs demandés par le métier se fait en conformité avec cette architecture (Cf. schéma ci-dessous) :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>La présence du &lt;t0/&gt;?&lt;t1/&gt; indique que la date est passée comme paramètre dont la source est définie dans l'écran dédié :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T184610Z" creationid="Mr.Castrillon" creationdate="20180302T184610Z">
+        <seg>La presencia de&lt;t0/&gt;?&lt;t1/&gt; indica que la fecha se introdujo como parámetro, cuya fuente se define en la pantalla correspondiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Le champ "&lt;t0/&gt;period&lt;t1/&gt;" indique si l'extraction concernée est une extraction mensuelle (M), hebdomadaire (H) ou quotidienne (Q).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T181838Z" creationid="Mr.Castrillon" creationdate="20180302T181838Z">
+        <seg>El campo "&lt;t0/&gt;period&lt;t1/&gt;" esclarece si la extracción en cuestión es mensual (M), Semanal (H) o cotidianamente (Q).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Le champ &lt;t0/&gt;db_extractdate&lt;t1/&gt; un champ &lt;t2/&gt;datetime&lt;t3/&gt; permettant de préciser la date et le jour où l'extraction a été réalisée.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T030142Z" creationid="Mr.Castrillon" creationdate="20180228T030142Z">
-        <seg>Le champ &lt;t0/&gt;db_extractdate&lt;t1/&gt; un champ &lt;t2/&gt;datetime&lt;t3/&gt; permettant de préciser la date et le jour où l'extraction a été réalisée.</seg>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T131434Z" creationid="Mr.Castrillon" creationdate="20180228T030142Z">
+        <seg>Campo &lt;t3/&gt;datetime&lt;t4/&gt; que permite determinar con precisión la fecha y el día en que se realizó la extracción.</seg>
       </tuv>
     </tu>
     <tu>
@@ -950,10 +1878,58 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Le fichier Excel et le code VBA utilisent fréquemment des "noms" pour identifier des sources de données (Cf. &lt;t0/&gt;https://support.office.com/fr-fr/article/D%c3%a9finir-et-utiliser-des-noms-dans-les-formules-4d0f13ac-53b7-422e-afd2-abd7ff379c64?NS=EXCEL&amp;Version=16&amp;SysLcid=1036&amp;UiLcid=1036&amp;AppVer=ZXL160&amp;HelpId=25450&amp;ui=fr-FR&amp;rs=fr-FR&amp;ad=FR&lt;t1/&gt;).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T142915Z" creationid="Mr.Castrillon" creationdate="20180228T142915Z">
+        <seg>El fichero Excel y el código VBA utilizan frecuentemente "nombres" para identificar las fuentes de los datos (Cf. &lt;t0/&gt;https://support.office.com/fr-fr/article/D%c3%a9finir-et-utiliser-des-noms-dans-les-formules-4d0f13ac-53b7-422e-afd2-abd7ff379c64?NS=EXCEL&amp;Version=16&amp;SysLcid=1036&amp;UiLcid=1036&amp;AppVer=ZXL160&amp;HelpId=25450&amp;ui=fr-FR&amp;rs=fr-FR&amp;ad=FR&lt;t1/&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Le fichier résultat&lt;t0/&gt; qui contient l&lt;t1/&gt;es noms des deux fichiers comparés&lt;t2/&gt;, l&lt;t3/&gt;es entêtes de colonnes&lt;t4/&gt; et &lt;t5/&gt;u&lt;t6/&gt;n nombre pair de lignes de données :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012038Z" creationid="Mr.Castrillon" creationdate="20180303T012038Z">
+        <seg>Le fichier résultat&lt;t0/&gt; qui contient l&lt;t1/&gt;es noms des deux fichiers comparés&lt;t2/&gt;, l&lt;t3/&gt;es entêtes de colonnes&lt;t4/&gt; et &lt;t5/&gt;u&lt;t6/&gt;n nombre pair de lignes de données :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Le recours au &lt;t0/&gt;code VBA est &lt;t1/&gt;restreint au nécessaire et utilisé pour &lt;t2/&gt;:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T142455Z" creationid="Mr.Castrillon" creationdate="20180228T142455Z">
+        <seg>El código &lt;t0/&gt;VBA es &lt;t1/&gt;es utilizado solamente para casos necesarios como&lt;t2/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Le résultat est présenté dans Excel.</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T032726Z" creationid="Mr.Castrillon" creationdate="20180228T023241Z">
         <seg>El resultado se muestra en Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les &lt;t0/&gt;indicateurs &lt;t1/&gt;sont calculés par des TCD qui ont pour source les tableaux de données.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T194659Z" creationid="Mr.Castrillon" creationdate="20180302T194659Z">
+        <seg>Los &lt;t0/&gt;indicadores &lt;t1/&gt;se calculan por los TCD que tienen como fuente las tablas de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les TCD initialement basés sur des chronologies sont donc livrés en double (chronologie et groupes).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T230555Z" creationid="Mr.Castrillon" creationdate="20180302T230555Z">
+        <seg>Les TCD initialement basés sur des chronologies sont donc livrés en double (chronologie et groupes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les adresses des dates concernées sont visibles dans le gestionnaire de noms :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010051Z" creationid="Mr.Castrillon" creationdate="20180303T010051Z">
+        <seg>Les adresses des dates concernées sont visibles dans le gestionnaire de noms :</seg>
       </tuv>
     </tu>
     <tu>
@@ -966,6 +1942,22 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Les bornes des segments sont paramétrables (mais avec un pas fixe).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T200223Z" creationid="Mr.Castrillon" creationdate="20180302T200223Z">
+        <seg>Los segmentos pueden configurarse (pero con un valor fijo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les chaînes de connexion du fichier Excel &lt;t0/&gt;sont modifiées de manière à pointer sur les bases nouvellement créées avec &lt;t1/&gt;le User&lt;t2/&gt; adapté.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012537Z" creationid="Mr.Castrillon" creationdate="20180303T012537Z">
+        <seg>Les chaînes de connexion du fichier Excel &lt;t0/&gt;sont modifiées de manière à pointer sur les bases nouvellement créées avec &lt;t1/&gt;le User&lt;t2/&gt; adapté.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Les clients de CACEIS Luxembourg sont :</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T231724Z" creationid="Mr.Castrillon" creationdate="20180227T231724Z">
@@ -974,10 +1966,26 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Les deux fichiers à comparer (ouverts en lecture seule)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012013Z" creationid="Mr.Castrillon" creationdate="20180303T012013Z">
+        <seg>Les deux fichiers à comparer (ouverts en lecture seule)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les différents indicateurs peuvent être consultés dans chacun des onglets en bleu.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010837Z" creationid="Mr.Castrillon" creationdate="20180303T010837Z">
+        <seg>Les différents indicateurs peuvent être consultés dans chacun des onglets en bleu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Les documents collectés sont « encodés » (saisie en base d’informations), scannés (et alors stockés dans une GED)&lt;t2/&gt; et stockés physiquement lorsque la réglementation l’impose.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T031932Z" creationid="Mr.Castrillon" creationdate="20180227T231224Z">
-        <seg>Los documentos recopilados son "codificados" (introducidos en la base de información), escaneados (luego almacenados en GED)&lt;t2/&gt; y almacenados físicamente mientras que la reglamentación lo imponga.</seg>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T134619Z" creationid="Mr.Castrillon" creationdate="20180227T231224Z">
+        <seg>Los documentos recopilados son "codificados" (introducidos en la base de información), escaneados (luego guardados en GED)&lt;t2/&gt; y almacenados físicamente mientras que la reglamentación lo imponga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -990,10 +1998,82 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Les données présentes dans ces onglets sont essentiellement calculées par des Tableaux Croisés Dynamiques (TCD) basés sur les tableaux contenus dans les onglets &lt;t2/&gt;qry&lt;t3/&gt;_*&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T141116Z" creationid="Mr.Castrillon" creationdate="20180228T141116Z">
+        <seg>Los datos presentados en estas pestañas se calculan a través de tablas dinámicas basadas en las tablas contenidas dentro de la pestañas &lt;t2/&gt;qry&lt;t3/&gt;_*&lt;t4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les données présentes dans ces onglets sont essentiellement calculées par des Tableaux Croisés Dynamiques (TCD) basés sur les tableaux de données contenus dans les onglets &lt;t2/&gt;qry&lt;t3/&gt;_*&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010353Z" creationid="Mr.Castrillon" creationdate="20180303T010353Z">
+        <seg>Les données présentes dans ces onglets sont essentiellement calculées par des Tableaux Croisés Dynamiques (TCD) basés sur les tableaux de données contenus dans les onglets &lt;t2/&gt;qry&lt;t3/&gt;_*&lt;t4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les données qui ont été modifiées d'un fichier à l'autre sont présentées sur fond jaune (Cf. ci-dessous).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012059Z" creationid="Mr.Castrillon" creationdate="20180303T012059Z">
+        <seg>Les données qui ont été modifiées d'un fichier à l'autre sont présentées sur fond jaune (Cf. ci-dessous).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les données récupérées comportent parfois des codes nécessitant des transcodifications afin de rendre les indicateurs plus lisibles.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T193418Z" creationid="Mr.Castrillon" creationdate="20180302T193418Z">
+        <seg>Los datos recuperados contienen en algunas ocasiones códigos que necesitan transcodificación para poder generar los indicadores más legibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les extractions automatiques mises en place par l'IP permettent d'historiser les données dans des bases dédiées.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010358Z" creationid="Mr.Castrillon" creationdate="20180303T010358Z">
+        <seg>Les extractions automatiques mises en place par l'IP permettent d'historiser les données dans des bases dédiées.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Les extractions étant au mieux quotidiennes, l'heure est nécessaire pour gérer les cas de reprises produisant plusieurs exports au cours d'une même journée.</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T034147Z" creationid="Mr.Castrillon" creationdate="20180228T025411Z">
         <seg>Para las extracciones que se realizan cotidianamente, es importante saber la hora para poder administrar los casos que producen varias exportaciones en la misma jornada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les extractions étant quotidiennes, l'heure est nécessaire pour gérer les cas de reprises produisant plusieurs exports au cours d'une même journée.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T131437Z" creationid="Mr.Castrillon" creationdate="20180228T131308Z">
+        <seg>Para las extracciones que se realizan cotidianamente, es importante saber la hora para poder administrar los casos que producen varias exportaciones en la misma jornada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les groupes permettent de définir des regroupements de données tel que ci-dessous :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T195909Z" creationid="Mr.Castrillon" creationdate="20180302T195909Z">
+        <seg>Los grupos permiten definir las agrupaciones de datos como se muestran a continuación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les indicateurs sont produits en utilisant des Tableaux Croisés Dynamiques (TCD) basés sur les données extraites.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010849Z" creationid="Mr.Castrillon" creationdate="20180303T010849Z">
+        <seg>Les indicateurs sont produits en utilisant des Tableaux Croisés Dynamiques (TCD) basés sur les données extraites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les indicateurs sont présentés dans des onglets nommés en lien avec l'indicateur contenu (ex : "&lt;t0/&gt;1-NbParStatutKYC&lt;t1/&gt;").</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T140807Z" creationid="Mr.Castrillon" creationdate="20180228T140807Z">
+        <seg>Los indicadores se presentan en pestañas denominadas según el indicador contenido (ejemplo: "&lt;t0/&gt;1-NbParStatutKYC&lt;t1/&gt;").</seg>
       </tuv>
     </tu>
     <tu>
@@ -1006,10 +2086,66 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Les lignes numérotées impaires dans Excel viennent du premier fichier choisi (données les plus anciennes).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012043Z" creationid="Mr.Castrillon" creationdate="20180303T012043Z">
+        <seg>Les lignes numérotées impaires dans Excel viennent du premier fichier choisi (données les plus anciennes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les lignes numérotées paires dans Excel viennent du second fichier choisi (données les plus récentes).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012054Z" creationid="Mr.Castrillon" creationdate="20180303T012054Z">
+        <seg>Les lignes numérotées paires dans Excel viennent du second fichier choisi (données les plus récentes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les onglets dont le nom est préfixé de "&lt;t0/&gt;qry&lt;t1/&gt;_" sont dédiés à la récupération des données stockées dans les bases de données de l'IP.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010333Z" creationid="Mr.Castrillon" creationdate="20180303T010333Z">
+        <seg>Les onglets dont le nom est préfixé de "&lt;t0/&gt;qry&lt;t1/&gt;_" sont dédiés à la récupération des données stockées dans les bases de données de l'IP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les onglets dont le nom est préfixé de "&lt;t0/&gt;qry&lt;t1/&gt;_" sont dédiés à la récupération, via des requêtes SQL, des données stockées dans la base de l'IP.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T140554Z" creationid="Mr.Castrillon" creationdate="20180228T134326Z">
+        <seg>Les pestañas que empiezan con el prefijo "&lt;t0/&gt;qry&lt;t1/&gt;_" se dedican a la recuperación de datos almacenados en la base de IP a través de peticiones SQL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les requêtes SQL sont du type &lt;t2/&gt;SELECT * FROM &lt;t3/&gt;table_name&lt;t4/&gt; WHERE &lt;t5/&gt;date_extract&lt;t6/&gt; &lt;t7/&gt;= ?&lt;t8/&gt;,&lt;t9/&gt; la date d'extraction voulue étant passée en paramètre.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T140646Z" creationid="Mr.Castrillon" creationdate="20180228T140646Z">
+        <seg>Las peticiones SQL son de tipo &lt;t2/&gt;SELECT * FROM &lt;t3/&gt;table_name&lt;t4/&gt; WHERE &lt;t5/&gt;date_extract&lt;t6/&gt; &lt;t7/&gt;= ?&lt;t8/&gt;,&lt;t9/&gt; la fecha de extracción deseada se pasa como parámetro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Les réalisations successives du &lt;t0/&gt;programme et les éventuelles erreurs sont listées dans un&lt;t1/&gt;e feuille Excel :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010144Z" creationid="Mr.Castrillon" creationdate="20180303T010144Z">
+        <seg>Les réalisations successives du &lt;t0/&gt;programme et les éventuelles erreurs sont listées dans un&lt;t1/&gt;e feuille Excel :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Les équipes AML KYC de CACEIS Luxembourg &lt;t0/&gt;s’assurent, via&lt;t1/&gt; la collecte et l&lt;t2/&gt;’analyse de données et de documents, &lt;t3/&gt;de la conformité des clients face aux législations &lt;t4/&gt;visant à contrer le blanchiment&lt;t5/&gt; &lt;t6/&gt;et le financement du terrorisme.</seg>
       </tuv>
-      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T033230Z" creationid="Mr.Castrillon" creationdate="20180227T225323Z">
-        <seg>Los equipos AML KYC de CACEIS Luxembourg &lt;t0/&gt;están asegurados, gracias a&lt;t1/&gt; la recopilación y el &lt;t2/&gt;análisis de datos y documentos &lt;t3/&gt;sobre el respeto de las legislaciones &lt;t4/&gt;que combaten el blanqueo&lt;t5/&gt; &lt;t6/&gt;y el financiamiento del terrorismo por parte de los clientes.</seg>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T134458Z" creationid="Mr.Castrillon" creationdate="20180227T225323Z">
+        <seg>Los equipos AML KYC de CACEIS Luxembourg &lt;t0/&gt;aseguran, gracias a&lt;t1/&gt; la recopilación y el &lt;t2/&gt;análisis de datos y documentos, &lt;t3/&gt;el respeto de las legislaciones &lt;t4/&gt;que combaten el blanqueo&lt;t5/&gt; &lt;t6/&gt;y el financiamiento del terrorismo por parte de los clientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>ListAllOdbcConnString</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T131933Z" creationid="Mr.Castrillon" creationdate="20180228T131933Z">
+        <seg>ListAllOdbcConnString</seg>
       </tuv>
     </tu>
     <tu>
@@ -1022,10 +2158,42 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Log &lt;t0/&gt;,&lt;t1/&gt; mode DEBUG&lt;t2/&gt; &amp; langue</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010124Z" creationid="Mr.Castrillon" creationdate="20180303T010124Z">
+        <seg>Log &lt;t0/&gt;,&lt;t1/&gt; mode DEBUG&lt;t2/&gt; &amp; langue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Logique générale</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223441Z" creationid="Mr.Castrillon" creationdate="20180227T223441Z">
         <seg>Lógica general</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Lorsque l'on souhaite filtrer les données d'un TCD en fonction d'une date présente dans les données source, il est possible d'utiliser une "Chronologie" faisant apparaître une fenêtre telle que celle-ci :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005258Z" creationid="Mr.Castrillon" creationdate="20180303T005258Z">
+        <seg>Si deseamos filtrar los datos de un TCD en función de una fecha de los datos fuentes, podernos utilizar una "Cronología" al lanar una ventana como la siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Lorsque l'étendue du champ date choisi (ici &lt;t0/&gt;new_statusdate&lt;t1/&gt;) est grande, la définition d'un filtre sur une période très courte peut être assez fastidieuse.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005545Z" creationid="Mr.Castrillon" creationdate="20180303T005545Z">
+        <seg>Lorsque l'étendue du champ date choisi (ici &lt;t0/&gt;new_statusdate&lt;t1/&gt;) est grande, la définition d'un filtre sur une période très courte peut être assez fastidieuse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Lorsque la chaîne de connexion définitive &lt;t6/&gt;est&lt;t7/&gt; connue, il convien&lt;t8/&gt;t&lt;t9/&gt; donc d'utiliser &lt;t10/&gt;SetAllOdbcConnectionStrings&lt;t11/&gt; avec la chaîne pointant vers les données BCT puis de modifier manuellement la chaîne pointant vers le CRM.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T134048Z" creationid="Mr.Castrillon" creationdate="20180228T134048Z">
+        <seg>Mientras que el canal de conexión &lt;t6/&gt;sea&lt;t7/&gt;reconocido, es mejor utilizar &lt;t10/&gt;SetAllOdbcConnectionStrings&lt;t11/&gt; con el canal apuntando hacia los datos BCT y luego editar manualmente el canal dirigido hacia el CRM. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,6 +2206,22 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>L’outil Excel fonctionne selon la logique générale suivante :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T134130Z" creationid="Mr.Castrillon" creationdate="20180228T134130Z">
+        <seg>La herramienta en Excel funciona siguiendo la lógica siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>M</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T142952Z" creationid="Mr.Castrillon" creationdate="20180228T142952Z">
+        <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Macro description du besoin</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T030803Z" creationid="Mr.Castrillon" creationdate="20180227T222203Z">
@@ -1046,10 +2230,90 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Mettre à jour les &lt;t0/&gt;"chronologies" permettant de filtrer les TCD&lt;t1/&gt; (Cf. &lt;t2/&gt;3.3.5.2&lt;t3/&gt;)&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T142809Z" creationid="Mr.Castrillon" creationdate="20180228T142809Z">
+        <seg>Actualizar las &lt;t0/&gt;"cronologías" que permiten filtrar los TCD&lt;t1/&gt; (Cf. &lt;t2/&gt;3.3.5.2&lt;t3/&gt;)&lt;t4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Mettre à jour les TCD associés aux indicateurs demandés par l'utilisateur ;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T142741Z" creationid="Mr.Castrillon" creationdate="20180228T142741Z">
+        <seg>Actualizar los TCD asociados a los indicadores demandados por los usuarios;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Mettre à jour les données externes à l'outil&lt;t0/&gt; et&lt;t1/&gt; nécessaires aux indicateurs demandés par l'utilisateur ;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T142622Z" creationid="Mr.Castrillon" creationdate="20180228T142622Z">
+        <seg>Actualizar los datos externos a la herramienta&lt;t0/&gt; y&lt;t1/&gt; necesarios para los indicadores que los usuarios demandan; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Mise à jour de la chronologie nommée &lt;t0/&gt;sSlicer&lt;t1/&gt; afin de définir un filtre entre la valeur de la cellule Excel dont le nom est &lt;t2/&gt;sXlNameFrom&lt;t3/&gt; et celle dont le nom est &lt;t4/&gt;sXlNameTo&lt;t5/&gt; .</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005631Z" creationid="Mr.Castrillon" creationdate="20180303T005631Z">
+        <seg>Mise à jour de la chronologie nommée &lt;t0/&gt;sSlicer&lt;t1/&gt; afin de définir un filtre entre la valeur de la cellule Excel dont le nom est &lt;t2/&gt;sXlNameFrom&lt;t3/&gt; et celle dont le nom est &lt;t4/&gt;sXlNameTo&lt;t5/&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Mise à jour de la colonne &lt;t0/&gt;COL_DATES &lt;t1/&gt;avec les dates les plus récentes possibles</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T144414Z" creationid="Mr.Castrillon" creationdate="20180228T144414Z">
+        <seg>Actualización de la columna &lt;t0/&gt;COL_DATES &lt;t1/&gt; con las fechas más recientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Mise à jour de&lt;t0/&gt;s TCD des onglets listés dans &lt;t1/&gt;COL_PIVOT_TABLES</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T183200Z" creationid="Mr.Castrillon" creationdate="20180302T183200Z">
+        <seg>Actualiación de los&lt;t0/&gt; TCD de las pestañas mostradas en &lt;t1/&gt;COL_PIVOT_TABLES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Mise à jour des &lt;t0/&gt;dates dans &lt;t1/&gt;WS_EXTRACTION_DATES</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T144343Z" creationid="Mr.Castrillon" creationdate="20180228T144343Z">
+        <seg>Actualización de las &lt;t0/&gt;fechas en &lt;t1/&gt;WS_EXTRACTION_DATES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Mise à jour des &lt;t0/&gt;tableaux de données&lt;t1/&gt; dans&lt;t2/&gt; les onglets listés dans&lt;t3/&gt; &lt;t4/&gt;COL_QUERIES</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T183126Z" creationid="Mr.Castrillon" creationdate="20180302T183126Z">
+        <seg>Actualiación de &lt;t0/&gt;tablas de datos&lt;t1/&gt; en&lt;t2/&gt; las pestañas mostradas en&lt;t3/&gt; &lt;t4/&gt;COL_QUERIES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Mise à jour des TCD</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T190403Z" creationid="Mr.Castrillon" creationdate="20180302T190403Z">
+        <seg>Actualización de los TCD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Mise à jour des dates d'extraction</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223850Z" creationid="Mr.Castrillon" creationdate="20180227T223850Z">
         <seg>Actualización de las fechas de extracción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Mise à jour des données</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T183208Z" creationid="Mr.Castrillon" creationdate="20180302T183208Z">
+        <seg>Actualización de datos</seg>
       </tuv>
     </tu>
     <tu>
@@ -1078,6 +2342,22 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>ModifStatusFrom&lt;t0/&gt; : nom de la cellule contenant la date de départ</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005746Z" creationid="Mr.Castrillon" creationdate="20180303T005746Z">
+        <seg>ModifStatusFrom&lt;t0/&gt; : nom de la cellule contenant la date de départ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>ModifStatusTo&lt;t0/&gt; : nom de la cellule contenant la date de départ</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005759Z" creationid="Mr.Castrillon" creationdate="20180303T005759Z">
+        <seg>ModifStatusTo&lt;t0/&gt; : nom de la cellule contenant la date de départ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Modifications réalisées par une autre entité sur des Tiers partagés</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T225103Z" creationid="Mr.Castrillon" creationdate="20180227T225103Z">
@@ -1086,10 +2366,154 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>N'offre pas toutes les garanties en matière de sécurité (un utilisateur pourrait modifier la requête de lecture pour récupérer des données &lt;t0/&gt;d'une entité qu'il n'est pas supposé voir).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012231Z" creationid="Mr.Castrillon" creationdate="20180303T012231Z">
+        <seg>N'offre pas toutes les garanties en matière de sécurité (un utilisateur pourrait modifier la requête de lecture pour récupérer des données &lt;t0/&gt;d'une entité qu'il n'est pas supposé voir).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>NA</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T131944Z" creationid="Mr.Castrillon" creationdate="20180228T131944Z">
+        <seg>NA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>NB : A ce jour, toutes les requêtes utilisent la même chaîne de connexion à l'exception de&lt;t0/&gt;s deux&lt;t1/&gt; requête&lt;t2/&gt;s&lt;t3/&gt; qui pointe&lt;t4/&gt;nt&lt;t5/&gt; vers le CRM.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T133554Z" creationid="Mr.Castrillon" creationdate="20180228T133554Z">
+        <seg>Nota : Hasta ahora, todas las peticiones utilizan el mismo canal de conexión, salvo &lt;t0/&gt;dos&lt;t1/&gt; peticione&lt;t2/&gt;s&lt;t3/&gt; que apunta&lt;t4/&gt;n&lt;t5/&gt; hacia el CRM.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>NB : Les chronologies présentées ci-dessous sont apparues avec Office 2013 alors que les utilisateurs sont actuellement sous Office 2010.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T224946Z" creationid="Mr.Castrillon" creationdate="20180302T224946Z">
+        <seg>Nota :Las cronologías presentadas a continuación son concebidas en Office 2013 mientras que los usuarios usan Office 2010</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>NB : Lors de la création d'une nouvelle chronologie, Excel lui attribue un nom par défaut tel que &lt;t0/&gt;ChronologieNative_&lt;t1/&gt;nomduchamp&lt;t2/&gt; qu'il est possible de modifier dans le gestionnaire de noms ci-dessus.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010110Z" creationid="Mr.Castrillon" creationdate="20180303T010110Z">
+        <seg>NB : Lors de la création d'une nouvelle chronologie, Excel lui attribue un nom par défaut tel que &lt;t0/&gt;ChronologieNative_&lt;t1/&gt;nomduchamp&lt;t2/&gt; qu'il est possible de modifier dans le gestionnaire de noms ci-dessus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>NB : par défaut, la colonne "&lt;t0/&gt;Date à utiliser&lt;t1/&gt;" est toujours renseignée par la date d'extraction la plus récente disponible.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010807Z" creationid="Mr.Castrillon" creationdate="20180303T010807Z">
+        <seg>NB : par défaut, la colonne "&lt;t0/&gt;Date à utiliser&lt;t1/&gt;" est toujours renseignée par la date d'extraction la plus récente disponible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Nom</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T131929Z" creationid="Mr.Castrillon" creationdate="20180228T131929Z">
+        <seg>Nombre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Noms Excel&lt;t0/&gt; utilisés</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005735Z" creationid="Mr.Castrillon" creationdate="20180303T005735Z">
+        <seg>Noms Excel&lt;t0/&gt; utilisés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Noms des colonnes du tableau de paramètres :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010253Z" creationid="Mr.Castrillon" creationdate="20180303T010253Z">
+        <seg>Noms des colonnes du tableau de paramètres :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Nécessite d'é&lt;t0/&gt;tud&lt;t1/&gt;ier&lt;t2/&gt; puis &lt;t3/&gt;de mettre &lt;t4/&gt;en place des solutions techniques côté SQL Server ;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012431Z" creationid="Mr.Castrillon" creationdate="20180303T012431Z">
+        <seg>Nécessite d'é&lt;t0/&gt;tud&lt;t1/&gt;ier&lt;t2/&gt; puis &lt;t3/&gt;de mettre &lt;t4/&gt;en place des solutions techniques côté SQL Server ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Nécessite de modifier &lt;t0/&gt;tables de l'IP et &lt;t1/&gt;les requêtes de chargement des données (SQL dans SSIS) ;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012216Z" creationid="Mr.Castrillon" creationdate="20180303T012216Z">
+        <seg>Nécessite de modifier &lt;t0/&gt;tables de l'IP et &lt;t1/&gt;les requêtes de chargement des données (SQL dans SSIS) ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Nécessite de modifier les chaînes de connexion &lt;t0/&gt;des fichiers des nouvelles entités adopter &lt;t1/&gt;le user&lt;t2/&gt; adapté&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012454Z" creationid="Mr.Castrillon" creationdate="20180303T012454Z">
+        <seg>Nécessite de modifier les chaînes de connexion &lt;t0/&gt;des fichiers des nouvelles entités adopter &lt;t1/&gt;le user&lt;t2/&gt; adapté&lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Nécessite de modifier les requêtes &lt;t0/&gt;de lecture des données (SQL dans Excel)&lt;t1/&gt; pour ajouter un filtre sur l'entité&lt;t2/&gt; ;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012230Z" creationid="Mr.Castrillon" creationdate="20180303T012230Z">
+        <seg>Nécessite de modifier les requêtes &lt;t0/&gt;de lecture des données (SQL dans Excel)&lt;t1/&gt; pour ajouter un filtre sur l'entité&lt;t2/&gt; ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>ODBC;DSN&lt;t0/&gt;=SQLS_IPQ_WRITE_LUX;UID=BDP_FDS_READ;PWD=fi9EJ;APP=Microsoft Office 2010;WSID=FWPC-85232;DATABASE=BDP_CRM_2011;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T131810Z" creationid="Mr.Castrillon" creationdate="20180228T131810Z">
+        <seg>ODBC;DSN&lt;t0/&gt;=SQLS_IPQ_WRITE_LUX;UID=BDP_FDS_READ;PWD=fi9EJ;APP=Microsoft Office 2010;WSID=FWPC-85232;DATABASE=BDP_CRM_2011;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>ODBC;DSN&lt;t0/&gt;=SQLS_IPQ_WRITE_LUX;UID=BDP_FDS_READ;PWD=fi9EJ;APP=Microsoft Office 2010;WSID=FWPC-85232;DATABASE=BDP_FDS;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T131809Z" creationid="Mr.Castrillon" creationdate="20180228T131809Z">
+        <seg>ODBC;DSN&lt;t0/&gt;=SQLS_IPQ_WRITE_LUX;UID=BDP_FDS_READ;PWD=fi9EJ;APP=Microsoft Office 2010;WSID=FWPC-85232;DATABASE=BDP_FDS;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>On voit ici que la date d'extraction choisie par l'utilisateur n'apparaît ni via une constante, ni via un paramètre.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T184339Z" creationid="Mr.Castrillon" creationdate="20180302T184339Z">
+        <seg>Aquí se `puede apreciar como la fecha de extracción elegida por el usuario no se muestra ni a través de una constante ni de un parámetro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Onglets des indicateurs</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T223656Z" creationid="Mr.Castrillon" creationdate="20180227T223656Z">
         <seg>Pestañas de los indicadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Original manquant</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T194234Z" creationid="Mr.Castrillon" creationdate="20180302T194234Z">
+        <seg>Originales ausentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Ou enregistrer une &lt;t0/&gt;"version majeure"&lt;t1/&gt; directement dans SharePoint.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T011825Z" creationid="Mr.Castrillon" creationdate="20180303T011825Z">
+        <seg>Ou enregistrer une &lt;t0/&gt;"version majeure"&lt;t1/&gt; directement dans SharePoint.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,6 +2542,38 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>P&lt;t5/&gt;our cha&lt;t6/&gt;que&lt;t7/&gt; table&lt;t8/&gt; source, une requête de type &lt;t9/&gt;(SELECT DISTINCT &lt;t10/&gt;date_extract&lt;t11/&gt;, &lt;t12/&gt;period&lt;t13/&gt;, &lt;t14/&gt;'&lt;t15/&gt;table_name&lt;t16/&gt;' AS &lt;t17/&gt;SourceTable&lt;t18/&gt; FROM &lt;t19/&gt;table_name&lt;t20/&gt;)&lt;t21/&gt; alimente un tableau tel que celui-ci :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143739Z" creationid="Mr.Castrillon" creationdate="20180228T143739Z">
+        <seg>P&lt;t5/&gt;ara ca&lt;t6/&gt;da&lt;t7/&gt; tabla&lt;t8/&gt; fuente, une petición de tipo &lt;t9/&gt;(SELECT DISTINCT &lt;t10/&gt;date_extract&lt;t11/&gt;, &lt;t12/&gt;period&lt;t13/&gt;, &lt;t14/&gt;'&lt;t15/&gt;table_name&lt;t16/&gt;' AS &lt;t17/&gt;SourceTable&lt;t18/&gt; FROM &lt;t19/&gt;table_name&lt;t20/&gt;)&lt;t21/&gt; genera una tabla como la siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Par ailleurs, les noms des onglets Excel ou les intitulés des colonnes peuvent être modifiés (par exemple pour être en anglais) &lt;t0/&gt;à condition de modifier en conséquence les constantes VBA du programme (à réaliser en relation avec l'IP uniquement)&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010940Z" creationid="Mr.Castrillon" creationdate="20180303T010940Z">
+        <seg>Par ailleurs, les noms des onglets Excel ou les intitulés des colonnes peuvent être modifiés (par exemple pour être en anglais) &lt;t0/&gt;à condition de modifier en conséquence les constantes VBA du programme (à réaliser en relation avec l'IP uniquement)&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Par défaut, le programme écrit ces informations dans la feuille "log" du programme lui-même.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010154Z" creationid="Mr.Castrillon" creationdate="20180303T010154Z">
+        <seg>Par défaut, le programme écrit ces informations dans la feuille "log" du programme lui-même.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Paramètres</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T131942Z" creationid="Mr.Castrillon" creationdate="20180228T131942Z">
+        <seg>Parámetros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Personnalisation</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224030Z" creationid="Mr.Castrillon" creationdate="20180227T224030Z">
@@ -1126,10 +2582,154 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Post mise à jour &lt;t0/&gt;des &lt;t1/&gt;dates dans &lt;t2/&gt;WS_EXTRACTION_DATES&lt;t3/&gt;, la macro copie les dates de la colonne&lt;t4/&gt; &lt;t5/&gt;COL_MAX_DATES &lt;t6/&gt;et les colle en valeurs dans la colonne &lt;t7/&gt;COL_DATES&lt;t8/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T181438Z" creationid="Mr.Castrillon" creationdate="20180302T181438Z">
+        <seg>Para actualizar &lt;t0/&gt;las &lt;t1/&gt;fechas en &lt;t2/&gt;WS_EXTRACTION_DATES&lt;t3/&gt;, la macro copia las fechas de la columna&lt;t4/&gt; &lt;t5/&gt;COL_MAX_DATES &lt;t6/&gt;y las pega en valores en la columna &lt;t7/&gt;COL_DATES&lt;t8/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Pour &lt;t0/&gt;chacun d&lt;t1/&gt;es onglets listés dans la collection&lt;t2/&gt;, mise à jour de tous les &lt;t3/&gt;tableaux de l'onglet via &lt;t4/&gt;ListObject.QueryTable.Refresh&lt;t5/&gt; &lt;t6/&gt;BackgroundQuery&lt;t7/&gt;:=False</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T183404Z" creationid="Mr.Castrillon" creationdate="20180302T183404Z">
+        <seg>Para&lt;t0/&gt;cada una de&lt;t1/&gt;las pestañas mostradas en la recuperación&lt;t2/&gt;, se actualiza as tablas&lt;t3/&gt;de la pestaña a través de&lt;t4/&gt;ListObject.QueryTable.Refresh&lt;t5/&gt; &lt;t6/&gt;BackgroundQuery&lt;t7/&gt;:=False</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Pour &lt;t0/&gt;chacun d&lt;t1/&gt;es onglets listés dans la collection&lt;t2/&gt;, mise à jour de tous les TCD de l'onglet via &lt;t3/&gt;PivotTable&lt;t4/&gt;.PivotCache.Refresh</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T190555Z" creationid="Mr.Castrillon" creationdate="20180302T190555Z">
+        <seg>Por cada una &lt;t0/&gt;de las&lt;t1/&gt;pestañas mostradas en la recuperación&lt;t2/&gt;, se actualizan todos los TCD a través de &lt;t3/&gt;PivotTable&lt;t4/&gt;.PivotCache.Refresh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Pour cela, il faut passer la constante &lt;t0/&gt;DEBUG_MODE&lt;t1/&gt; à &lt;t2/&gt;True&lt;t3/&gt; &lt;t4/&gt;et choisir le chemin de sauvegarde voulu avec la constante &lt;t5/&gt;DEBUG_PATH&lt;t6/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010223Z" creationid="Mr.Castrillon" creationdate="20180303T010223Z">
+        <seg>Pour cela, il faut passer la constante &lt;t0/&gt;DEBUG_MODE&lt;t1/&gt; à &lt;t2/&gt;True&lt;t3/&gt; &lt;t4/&gt;et choisir le chemin de sauvegarde voulu avec la constante &lt;t5/&gt;DEBUG_PATH&lt;t6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Pour chacun des indicateurs, l'utilisateur a donc la possibilité de choisir la date des données à récupérer mais cela nécessite avant tout de mettre à jour la liste des dates disponibles dans le fichier Excel.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010525Z" creationid="Mr.Castrillon" creationdate="20180303T010525Z">
+        <seg>Pour chacun des indicateurs, l'utilisateur a donc la possibilité de choisir la date des données à récupérer mais cela nécessite avant tout de mettre à jour la liste des dates disponibles dans le fichier Excel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Pour contourner ce problème, l'utilisateur a la possibilité de saisir les dates de filtre qu'il souhaite appliquer dans 2 cellules Excel avant de cliquer sur le bouton "&lt;t2/&gt; Maj du filtre&lt;t3/&gt;"&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T011005Z" creationid="Mr.Castrillon" creationdate="20180303T011005Z">
+        <seg>Pour contourner ce problème, l'utilisateur a la possibilité de saisir les dates de filtre qu'il souhaite appliquer dans 2 cellules Excel avant de cliquer sur le bouton "&lt;t2/&gt; Maj du filtre&lt;t3/&gt;"&lt;t4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Pour contourner ce problème, la sélection des dates à appliquer à la chronologie peut être définie par VBA :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005556Z" creationid="Mr.Castrillon" creationdate="20180303T005556Z">
+        <seg>Pour contourner ce problème, la sélection des dates à appliquer à la chronologie peut être définie par VBA :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Pour les indicateurs dont &lt;t0/&gt;COL_BOOL_UPDATE = VRAI&lt;t1/&gt; :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T183042Z" creationid="Mr.Castrillon" creationdate="20180302T183042Z">
+        <seg>Para los indicadores que &lt;t0/&gt;COL_BOOL_UPDATE = VERDADERO&lt;t1/&gt; :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Pour modifier les critères de regroupement, faire un clic droit sur les étiquettes de ligne et cliquer sur "Grouper…".</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010950Z" creationid="Mr.Castrillon" creationdate="20180303T010950Z">
+        <seg>Pour modifier les critères de regroupement, faire un clic droit sur les étiquettes de ligne et cliquer sur "Grouper…".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Programme &lt;t0/&gt;de comparaison des fichiers :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012108Z" creationid="Mr.Castrillon" creationdate="20180303T012108Z">
+        <seg>Programme &lt;t0/&gt;de comparaison des fichiers :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Public &lt;t0/&gt;Const&lt;t1/&gt; WS_CRM As String = "Flux"</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010245Z" creationid="Mr.Castrillon" creationdate="20180303T010245Z">
+        <seg>Public &lt;t0/&gt;Const&lt;t1/&gt; WS_CRM As String = "Flux"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Public &lt;t0/&gt;Const&lt;t1/&gt; WS_EXTRACTION_DATES As String = "&lt;t2/&gt;qry_date_extract&lt;t3/&gt;"</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143148Z" creationid="Mr.Castrillon" creationdate="20180228T143148Z">
+        <seg>Public &lt;t0/&gt;Const&lt;t1/&gt; WS_EXTRACTION_DATES As String = "&lt;t2/&gt;qry_date_extract&lt;t3/&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Public &lt;t0/&gt;Const&lt;t1/&gt; WS_PARAMETERS As String = "&lt;t2/&gt;Parametres&lt;t3/&gt;"</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010242Z" creationid="Mr.Castrillon" creationdate="20180303T010242Z">
+        <seg>Public &lt;t0/&gt;Const&lt;t1/&gt; WS_PARAMETERS As String = "&lt;t2/&gt;Parametres&lt;t3/&gt;"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>R</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T194021Z" creationid="Mr.Castrillon" creationdate="20180302T194021Z">
+        <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>RNG_PARAMETERS As String = "&lt;t0/&gt;Parametres&lt;t1/&gt;"&lt;t2/&gt;, nom Excel de la zone contenant les paramètres.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T144143Z" creationid="Mr.Castrillon" creationdate="20180228T144143Z">
+        <seg>RNG_PARAMETERS As String = "&lt;t0/&gt;Parametres&lt;t1/&gt;"&lt;t2/&gt;, nombre en Excel de la zona que contiene los parámetros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>RefreshTables</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T183244Z" creationid="Mr.Castrillon" creationdate="20180302T183244Z">
+        <seg>RefreshTables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Regroupements de données</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T224223Z" creationid="Mr.Castrillon" creationdate="20180227T224223Z">
         <seg>Agrupación de datos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Remplace la chaîne de connexion existante par celle fournie en paramètre</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T133418Z" creationid="Mr.Castrillon" creationdate="20180228T133418Z">
+        <seg>Remplace el canal de conexión existente por el que devuelve el parámetro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Récupération des d&lt;t0/&gt;ates d'extraction&lt;t1/&gt; disponibles en base</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143329Z" creationid="Mr.Castrillon" creationdate="20180228T143151Z">
+        <seg>Recuperación de las f&lt;t0/&gt;echas de extracción&lt;t1/&gt; disponibles en la base</seg>
       </tuv>
     </tu>
     <tu>
@@ -1150,6 +2750,22 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>SELECT * FROM FDS_tab_qry5_vol_cre WHERE &lt;t0/&gt;date_extract&lt;t1/&gt; &lt;t2/&gt;=&lt;t3/&gt; &lt;t4/&gt;?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T184502Z" creationid="Mr.Castrillon" creationdate="20180302T184502Z">
+        <seg>SELECT * FROM FDS_tab_qry5_vol_cre WHERE &lt;t0/&gt;date_extract&lt;t1/&gt; &lt;t2/&gt;=&lt;t3/&gt; &lt;t4/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>SELECT &lt;t0/&gt;C_ID_OBJ_GENBCT, C_IDENTIFIANT_LUX, C_VAL_CODIF_ADMIN, &lt;t1/&gt;date_extract</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143045Z" creationid="Mr.Castrillon" creationdate="20180228T143045Z">
+        <seg>SELECT &lt;t0/&gt;C_ID_OBJ_GENBCT, C_IDENTIFIANT_LUX, C_VAL_CODIF_ADMIN, &lt;t1/&gt;date_extract</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Sauf exception, les noms des autres champs sont repris à l'identique de ceux présents dans Sidéral.</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T025711Z" creationid="Mr.Castrillon" creationdate="20180228T025711Z">
@@ -1158,10 +2774,66 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Se traduit par l'existence d'un fichier Excel différent par entité ;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012436Z" creationid="Mr.Castrillon" creationdate="20180303T012436Z">
+        <seg>Se traduit par l'existence d'un fichier Excel différent par entité ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Se traduit par l'existence d'un fichier&lt;t0/&gt; Excel différent par entité ;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012334Z" creationid="Mr.Castrillon" creationdate="20180303T012334Z">
+        <seg>Se traduit par l'existence d'un fichier&lt;t0/&gt; Excel différent par entité ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>SetAllOdbcConnectionStrings</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T133305Z" creationid="Mr.Castrillon" creationdate="20180228T133305Z">
+        <seg>SetAllOdbcConnectionStrings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>SlicerCreatedOn&lt;t0/&gt; &lt;t1/&gt;: nom de la chronologie</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010012Z" creationid="Mr.Castrillon" creationdate="20180303T010012Z">
+        <seg>SlicerCreatedOn&lt;t0/&gt; &lt;t1/&gt;: nom de la chronologie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>SlicerDerogSetup&lt;t0/&gt; &lt;t1/&gt;: nom de la chronologie</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010044Z" creationid="Mr.Castrillon" creationdate="20180303T010044Z">
+        <seg>SlicerDerogSetup&lt;t0/&gt; &lt;t1/&gt;: nom de la chronologie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>SlicerDurationClose&lt;t0/&gt; &lt;t1/&gt;: nom de la chronologie</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005917Z" creationid="Mr.Castrillon" creationdate="20180303T005917Z">
+        <seg>SlicerDurationClose&lt;t0/&gt; &lt;t1/&gt;: nom de la chronologie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>SlicerModifStatus&lt;t0/&gt; : nom de la chronologie</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005830Z" creationid="Mr.Castrillon" creationdate="20180303T005830Z">
+        <seg>SlicerModifStatus&lt;t0/&gt; : nom de la chronologie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Soit clients des autres activités (tenue de compte, valorisation, etc.) et alors considérés comme clients &lt;t0/&gt;« B&lt;t1/&gt;anque ».</seg>
       </tuv>
-      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T032051Z" creationid="Mr.Castrillon" creationdate="20180227T232431Z">
-        <seg>Clientes de otras actividades (mantenimiento de cuentas, valorizaciones, etc.), considerados como clientes del &lt;t0/&gt;"B&lt;t1/&gt;anco"</seg>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T135434Z" creationid="Mr.Castrillon" creationdate="20180227T232431Z">
+        <seg>Clientes de otras actividades (mantenimiento de cuentas, valorizaciones, etc.), considerados como clientes de &lt;t0/&gt;"B&lt;t1/&gt;anco".</seg>
       </tuv>
     </tu>
     <tu>
@@ -1174,10 +2846,50 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>SourceTable</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T142949Z" creationid="Mr.Castrillon" creationdate="20180228T142949Z">
+        <seg>SourceTable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Sous réserve d'une compréhension et d'une utilisation similaires des aspects KYC de la base BCT, la partie "Stock" des indicateurs développés peut être réutilisée par d'autres entités du groupe CACEIS.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012124Z" creationid="Mr.Castrillon" creationdate="20180303T012124Z">
+        <seg>Sous réserve d'une compréhension et d'une utilisation similaires des aspects KYC de la base BCT, la partie "Stock" des indicateurs développés peut être réutilisée par d'autres entités du groupe CACEIS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Statut</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T193835Z" creationid="Mr.Castrillon" creationdate="20180228T143108Z">
+        <seg>Estado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Sélectionner les colonnes devant servir de clé d'identification dans la comparaison des deux fichiers (en indiquant le numéro de colonne du fichier source dans la colonne "Clé" du tableau de paramètres).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T011939Z" creationid="Mr.Castrillon" creationdate="20180303T011939Z">
+        <seg>Sélectionner les colonnes devant servir de clé d'identification dans la comparaison des deux fichiers (en indiquant le numéro de colonne du fichier source dans la colonne "Clé" du tableau de paramètres).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Table des matières</seg>
       </tuv>
-      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T222055Z" creationid="Mr.Castrillon" creationdate="20180227T222055Z">
-        <seg>Tabla de contenido</seg>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T230611Z" creationid="Mr.Castrillon" creationdate="20180227T222055Z">
+        <seg>Índice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Techniquement la plus simple, cette solution consiste à dupliquer les bases et requêtes mises en place au &lt;t0/&gt;Luxembourg&lt;t1/&gt; &lt;t2/&gt;dans les différentes &lt;t3/&gt;IP locales&lt;t4/&gt; &lt;t5/&gt;:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012514Z" creationid="Mr.Castrillon" creationdate="20180303T012514Z">
+        <seg>Techniquement la plus simple, cette solution consiste à dupliquer les bases et requêtes mises en place au &lt;t0/&gt;Luxembourg&lt;t1/&gt; &lt;t2/&gt;dans les différentes &lt;t3/&gt;IP locales&lt;t4/&gt; &lt;t5/&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1198,6 +2910,30 @@
     </tu>
     <tu>
       <tuv lang="FR">
+        <seg>Un des besoins identifiés lors de l'atelier sur le "flux" &lt;t0/&gt;de l'activité "Bank" &lt;t1/&gt;consiste à &lt;t2/&gt;récupérer&lt;t3/&gt; deux &lt;t4/&gt;extraction&lt;t5/&gt;s&lt;t6/&gt; BCT, actuellement &lt;t7/&gt;diffusées par des &lt;t8/&gt;e-mails issus de l'équipe &lt;t9/&gt;BMG (IP Paris)&lt;t10/&gt;,&lt;t11/&gt; et &lt;t12/&gt;à comparer les photos de la base à deux dates différentes.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T011911Z" creationid="Mr.Castrillon" creationdate="20180303T011911Z">
+        <seg>Un des besoins identifiés lors de l'atelier sur le "flux" &lt;t0/&gt;de l'activité "Bank" &lt;t1/&gt;consiste à &lt;t2/&gt;récupérer&lt;t3/&gt; deux &lt;t4/&gt;extraction&lt;t5/&gt;s&lt;t6/&gt; BCT, actuellement &lt;t7/&gt;diffusées par des &lt;t8/&gt;e-mails issus de l'équipe &lt;t9/&gt;BMG (IP Paris)&lt;t10/&gt;,&lt;t11/&gt; et &lt;t12/&gt;à comparer les photos de la base à deux dates différentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Un onglet "&lt;t0/&gt;Parametres&lt;t1/&gt;" permet à l'utilisateur :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T141150Z" creationid="Mr.Castrillon" creationdate="20180228T141150Z">
+        <seg>La pestaña  "&lt;t0/&gt;Parámetros&lt;t1/&gt;" permite al usuarios:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Un onglet Excel (&lt;t0/&gt;qry_date_extract&lt;t1/&gt;) es&lt;t2/&gt;t&lt;t3/&gt; dédié à la récupération des dates d'extraction disponibles&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143609Z" creationid="Mr.Castrillon" creationdate="20180228T143238Z">
+        <seg>Una pestaña en Excel  (&lt;t0/&gt;qry_date_extract&lt;t1/&gt;) est&lt;t2/&gt;á&lt;t3/&gt; dedicada a la recuperación de fechas de extracción disponibles&lt;t4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
         <seg>Une base pour les données issues de BCT / Sidéral&lt;t0/&gt; (&lt;t1/&gt;BDP_FDS&lt;t2/&gt;)&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T034016Z" creationid="Mr.Castrillon" creationdate="20180228T023409Z">
@@ -1210,6 +2946,78 @@
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T023407Z" creationid="Mr.Castrillon" creationdate="20180228T023333Z">
         <seg>Una base para los datos de CRM&lt;t0/&gt; (&lt;t1/&gt;BDP_CRM_2011&lt;t2/&gt;)&lt;t3/&gt;;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Une bonne gestion &lt;t0/&gt;de la sécurité &lt;t1/&gt;imposerait la mise en place d'une restriction des périmètres visibles user par user (user &lt;t2/&gt;au sens de celui &lt;t3/&gt;mentionné dans la chaîne de connexion)&lt;t4/&gt; &lt;t5/&gt;:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012411Z" creationid="Mr.Castrillon" creationdate="20180303T012411Z">
+        <seg>Une bonne gestion &lt;t0/&gt;de la sécurité &lt;t1/&gt;imposerait la mise en place d'une restriction des périmètres visibles user par user (user &lt;t2/&gt;au sens de celui &lt;t3/&gt;mentionné dans la chaîne de connexion)&lt;t4/&gt; &lt;t5/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Une fois &lt;t0/&gt;mises à jour &lt;t1/&gt;les dates d'extraction disponibles&lt;t2/&gt;, l'utilisateur doit :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010633Z" creationid="Mr.Castrillon" creationdate="20180303T010633Z">
+        <seg>Une fois &lt;t0/&gt;mises à jour &lt;t1/&gt;les dates d'extraction disponibles&lt;t2/&gt;, l'utilisateur doit :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Une première fois de manière classique avec un &lt;t0/&gt;SELECT *</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T192715Z" creationid="Mr.Castrillon" creationdate="20180302T192715Z">
+        <seg>La primera vez, de forma clásica con un &lt;t0/&gt;SELECT *</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Une première possibilité consiste à ajouter un paramètre "&lt;t0/&gt;entité" dans les tables de l'IP&lt;t1/&gt; :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012158Z" creationid="Mr.Castrillon" creationdate="20180303T012158Z">
+        <seg>Une première possibilité consiste à ajouter un paramètre "&lt;t0/&gt;entité" dans les tables de l'IP&lt;t1/&gt; :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Une seconde fois de façon à récupérer 4 champs uniquement sur les Tiers qui ont un indicateur d'activité saisi :</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T192904Z" creationid="Mr.Castrillon" creationdate="20180302T192904Z">
+        <seg>La segunda vez, de forma tal que recupere 4 campos solamente de los Tiers que tengan un indicador de actividad introducido: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>UpdateDataFromSqlServer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T182219Z" creationid="Mr.Castrillon" creationdate="20180302T182219Z">
+        <seg>UpdateDataFromSqlServer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>UpdateExtractionDates</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143008Z" creationid="Mr.Castrillon" creationdate="20180228T143008Z">
+        <seg>UpdateExtractionDates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>UpdateTimelineCreatedOn</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005931Z" creationid="Mr.Castrillon" creationdate="20180303T005931Z">
+        <seg>UpdateTimelineCreatedOn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>Utilisation des bases &lt;t0/&gt;de &lt;t1/&gt;l'IP Luxembourg</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T012146Z" creationid="Mr.Castrillon" creationdate="20180303T012146Z">
+        <seg>Utilisation des bases &lt;t0/&gt;de &lt;t1/&gt;l'IP Luxembourg</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,6 +3042,38 @@
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T221936Z" creationid="Mr.Castrillon" creationdate="20180227T221929Z">
         <seg>Versión : &lt;t0/&gt;1.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>WHERE &lt;t0/&gt;(C_IDENTIFIANT_LUX = 'I-ACT-SAI ' &lt;t1/&gt;AND &lt;t2/&gt;date_extract&lt;t3/&gt; = ?)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T143047Z" creationid="Mr.Castrillon" creationdate="20180228T143047Z">
+        <seg>WHERE &lt;t0/&gt;(C_IDENTIFIANT_LUX = 'I-ACT-SAI ' &lt;t1/&gt;AND &lt;t2/&gt;date_extract&lt;t3/&gt; = ?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>WS_EXTRACTION_DATES As String = "&lt;t0/&gt;qry_date_extract&lt;t1/&gt;"&lt;t2/&gt;, nom de l'onglet Excel contenant les dates d'extraction disponibles.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T144004Z" creationid="Mr.Castrillon" creationdate="20180228T143018Z">
+        <seg>WS_EXTRACTION_DATES As String = "&lt;t0/&gt;qry_date_extract&lt;t1/&gt;"&lt;t2/&gt;, nombre de la pestaña en Excel que contiene las fechas de extracción disponibles. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>WS_PARAMETERS As String = "&lt;t0/&gt;Parametres&lt;t1/&gt;"&lt;t2/&gt;, nom de l'onglet Excel contenant les paramètres.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T144103Z" creationid="Mr.Castrillon" creationdate="20180228T143024Z">
+        <seg>WS_PARAMETERS As String = "&lt;t0/&gt;Parametres&lt;t1/&gt;"&lt;t2/&gt;, nombre de la pestaña en Excel que contiene los parámetros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>attendre&lt;t0/&gt; que le programme lui indique que cette mise à jour est terminée.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010614Z" creationid="Mr.Castrillon" creationdate="20180303T010614Z">
+        <seg>attendre&lt;t0/&gt; que le programme lui indique que cette mise à jour est terminée.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1274,6 +3114,46 @@
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T030059Z" creationid="Mr.Castrillon" creationdate="20180228T030059Z">
         <seg>casetypecodename</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>choisir&lt;t0/&gt; la date d'extraction des données à utiliser pour chacun des indicateurs dans la colonne "&lt;t1/&gt;Date à utiliser&lt;t2/&gt;" ;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010707Z" creationid="Mr.Castrillon" creationdate="20180303T010707Z">
+        <seg>choisir&lt;t0/&gt; la date d'extraction des données à utiliser pour chacun des indicateurs dans la colonne "&lt;t1/&gt;Date à utiliser&lt;t2/&gt;" ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>choisir&lt;t0/&gt; les indicateurs qu'il souhaite mettre à jour en renseignant "VRAI" dans la colonne "MAJ" ;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010651Z" creationid="Mr.Castrillon" creationdate="20180303T010651Z">
+        <seg>choisir&lt;t0/&gt; les indicateurs qu'il souhaite mettre à jour en renseignant "VRAI" dans la colonne "MAJ" ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>cliquer&lt;t0/&gt; sur le bouton "&lt;t1/&gt; Maj des indicateurs&lt;t2/&gt;" ;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010724Z" creationid="Mr.Castrillon" creationdate="20180303T010724Z">
+        <seg>cliquer&lt;t0/&gt; sur le bouton "&lt;t1/&gt; Maj des indicateurs&lt;t2/&gt;" ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>cliquer&lt;t0/&gt; sur le bouton "&lt;t1/&gt;Maj des dates d'extractions disponibles&lt;t2/&gt;" ;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010603Z" creationid="Mr.Castrillon" creationdate="20180303T010603Z">
+        <seg>cliquer&lt;t0/&gt; sur le bouton "&lt;t1/&gt;Maj des dates d'extractions disponibles&lt;t2/&gt;" ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>colSheetsToUpdate&lt;t0/&gt; As Collection</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180302T183249Z" creationid="Mr.Castrillon" creationdate="20180302T183249Z">
+        <seg>colSheetsToUpdate&lt;t0/&gt; As Collection</seg>
       </tuv>
     </tu>
     <tu>
@@ -1562,6 +3442,22 @@
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180228T024010Z" creationid="Mr.Castrillon" creationdate="20180228T024010Z">
         <seg>period</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>sXlNameFrom&lt;t0/&gt; As String</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T005558Z" creationid="Mr.Castrillon" creationdate="20180303T005558Z">
+        <seg>sXlNameFrom&lt;t0/&gt; As String</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="FR">
+        <seg>se&lt;t0/&gt; rendre dans l'onglet "&lt;t1/&gt;Parametres&lt;t2/&gt;" ;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180303T010548Z" creationid="Mr.Castrillon" creationdate="20180303T010548Z">
+        <seg>se&lt;t0/&gt; rendre dans l'onglet "&lt;t1/&gt;Parametres&lt;t2/&gt;" ;</seg>
       </tuv>
     </tu>
     <tu>
